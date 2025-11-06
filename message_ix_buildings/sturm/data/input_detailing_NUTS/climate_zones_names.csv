@@ -1,0 +1,28 @@
+,0
+0,Zone_0A Extremely hot Humid
+1,Zone_0B Extremely hot Dry
+2,Zone_0C Extremely hot Marine
+3,Zone_1A Very hot Humid
+4,Zone_1B Very hot Dry
+5,Zone_1C Very hot Marine
+6,Zone_2A Hot Humid
+7,Zone_2B Hot Dry
+8,Zone_2C Hot Marine
+9,Zone_3A Warm Humid
+10,Zone_3B Warm Dry
+11,Zone_3C Warm Marine
+12,Zone_4A Mixed Humid
+13,Zone_4B Mixed Dry
+14,Zone_4C Mixed Marine
+15,Zone_5A Cool Humid
+16,Zone_5B Cool Dry
+17,Zone_5C Cool Marine
+18,Zone_6A Cold Humid
+19,Zone_6B Cold Dry
+20,Zone_6C Cold Marine
+21,Zone_7A Very cold Humid
+22,Zone_7B Very cold Dry
+23,Zone_7C Very cold Marine
+24,Zone_8A Subarctic/arctic Humid
+25,Zone_8B Subarctic/arctic Dry
+26,Zone_8C Subarctic/arctic Marine
