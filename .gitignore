@@ -27,3 +27,5 @@ user_settings.py
 
 # log files
 *.log
+message_ix_buildings/sturm/output/report_STURM_SSP2-NUTS_resid_region_nuts_energy.csv
+message_ix_buildings/sturm/output/report_STURM_SSP2-NUTS_resid_region_nuts_material.csv
