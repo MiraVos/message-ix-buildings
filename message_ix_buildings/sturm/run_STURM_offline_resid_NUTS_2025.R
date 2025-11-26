@@ -24,12 +24,12 @@ prices <- read_csv(paste0(data_path,"input_prices_R12.csv"))
 
 #Scenarios
 #scenarios = c("NPi-REF","NPi-ACT","NPi-ELE","NPi-TEC","NPi-ALL","1.5C-REF","1.5C-ACT","1.5C-ELE","1.5C-TEC", "1.5C-ALL")
-scenarios = c("SSP2-NUTS") 
+scenarios = c("SSP2-NUTS-BLD") 
 
 # Regions:
-regions_eu27_3 <- read_csv(paste0(path_input,"regions_R61_nuts.csv"))$region_nuts#[sample(1:1160, 100)]#NOTE: samples 100 NUTS3 regions from set [1:1165]
+#regions_eu27_3 <- read_csv(paste0(input_path,"regions_R61_nuts.csv"))$region_nuts#[sample(1:1160, 100)]#NOTE: samples 100 NUTS3 regions from set [1:1165]
 #  [grep("ITA", read_csv(paste0(path_input,"regions_R61_nuts.csv"))$region_nuts)]
-#regions_eu27_3 <- c("C-EEU-BGR","C-EEU-CZE","C-EEU-EST","C-EEU-HRV","C-EEU-HUN","C-EEU-LTU","C-EEU-LVA","C-EEU-POL", "C-EEU-ROU","C-EEU-SVK","C-EEU-SVN","C-WEU-AUT","C-WEU-BEL","C-WEU-CYP","C-WEU-DEU","C-WEU-DNK","C-WEU-ESP","C-WEU-FIN","C-WEU-FRA","C-WEU-GRC","C-WEU-IRL","C-WEU-ITA","C-WEU-LUX","C-WEU-MLT","C-WEU-NLD","C-WEU-PRT","C-WEU-SWE","C-WEU-NOR","C-WEU-GBR","C-WEU-CHE")
+regions_eu27_3 <- c("C-EEU-BGR","C-EEU-CZE","C-EEU-EST","C-EEU-HRV","C-EEU-HUN","C-EEU-LTU","C-EEU-LVA","C-EEU-POL", "C-EEU-ROU","C-EEU-SVK","C-EEU-SVN","C-WEU-AUT","C-WEU-BEL","C-WEU-CYP","C-WEU-DEU","C-WEU-DNK","C-WEU-ESP","C-WEU-FIN","C-WEU-FRA","C-WEU-GRC","C-WEU-IRL","C-WEU-ITA","C-WEU-LUX","C-WEU-MLT","C-WEU-NLD","C-WEU-PRT","C-WEU-SWE") #,"C-WEU-NOR","C-WEU-GBR","C-WEU-CHE"
 #regions_eu27_3 <- c("C-WEU-ITA")
 
 for(s in scenarios){
@@ -42,19 +42,19 @@ for(s in scenarios){
                                   path_rcode=rcode_path,
                                   path_out=rout_path,
                                   prices=prices, #NULL
-                                  file_inputs = "input_list_resid_2025_06_27_nuts.csv",
+                                  file_inputs = "input_list_resid_2025_11_06_nuts.csv",
                                   #file_data_model = "data_model_resid_SSP_2023.csv",
                                   #file_scenarios = "scenarios_SSP_2023.csv",
-                                  geo_level = "region_bld", # Level for analysis
+                                  geo_level = "region_bld", # Level for analysis, "region_nuts",
                                   geo_level_aggr = "region_gea", # Level for aggregated data
                                   geo_levels = c("region_bld", "region_gea"), # Levels to keep track of
-                                  geo_level_report="R12", # Level for reporting
-                                  region_select = list("region_nuts", regions_eu27_3), #NULL 
-                                  yrs = seq(2020,2050,5), #seq(2020,2050,15) #seq(2020,2030,5),
+                                  geo_level_report="region_bld", # Level for reporting
+                                  region_select = list("region_bld", regions_eu27_3), #NULL 
+                                  yrs = seq(2020,2050,5), #seq(2020,2050,15) #seq(2020,2030,5) #c(seq(2020,2060,5),seq(2070,2100,10))
                                   input_mode = "csv",
                                   mod_arch = "stock",
-                                  mod_new = "endogenous",#"exogenous", 
-                                  mod_ren = "endogenous",#"exogenous", 
+                                  mod_new = "endogenous",#"external", 
+                                  mod_ren = "endogenous",#"external", 
                                   report_type = c("STURM"), # Available reports: c("MESSAGE","STURM","IRP","NGFS","NAVIGATE")
                                   report_var = c("energy","material") # Available report variables: c("energy","material","vintage","dle")
                                   )
