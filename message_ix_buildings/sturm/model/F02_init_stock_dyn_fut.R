@@ -68,13 +68,13 @@ fun_stock_init_fut <- function(sector, run,
     bld_units <- geo_data %>%
       select_at(geo_levels) %>%
       left_join(pop) %>%
-      left_join(pop_urt, by = c("region_bld", "year")) %>%
+      left_join(pop_urt, by = c(geo_level, "year")) %>%
       mutate(pop = pop * pop_urt) %>%
-      select(region_bld, region_gea, urt, year, pop) %>%
+      select(geo_level, region_gea, urt, year, pop) %>%
       left_join(pop_clim) %>%
       mutate(pop = pop * pop_clim) %>%
-      select(region_bld, region_gea, urt, clim, year, pop) %>%
-      arrange(region_bld, region_gea, urt, clim, year) %>%
+      select(geo_level, region_gea, urt, clim, year, pop) %>%
+      arrange(geo_level, region_gea, urt, clim, year) %>%
       filter(year %in% yrs) %>%
       left_join(hh_size) %>%
       mutate(bld_units = round(1e6*pop/n_inc_cl/hh_size,rnd)) %>% # convert from million units to units
@@ -88,13 +88,13 @@ fun_stock_init_fut <- function(sector, run,
     bld_units <- geo_data %>%
       select_at(geo_levels) %>%
       left_join(pop) %>%
-      left_join(pop_urt, by = c("region_bld", "year")) %>%
+      left_join(pop_urt, by = c(geo_level, "year")) %>%
       mutate(pop = pop * pop_urt) %>%
-      select(region_bld, region_gea, urt, year, pop) %>%
+      select(geo_level, region_gea, urt, year, pop) %>%
       left_join(pop_clim) %>%
       mutate(pop = pop * pop_clim) %>%
-      select(region_bld, region_gea, urt, clim, year, pop) %>%
-      arrange(region_bld, region_gea, urt, clim, year) %>%
+      select(geo_level, region_gea, urt, clim, year, pop) %>%
+      arrange(geo_level, region_gea, urt, clim, year) %>%
       filter(year %in% yrs) %>% 
       left_join(floor_cap) %>% 
       mutate(bld_units = round(1e6*pop*floor_cap,rnd)) %>% # convert from million units to units

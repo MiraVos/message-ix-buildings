@@ -676,7 +676,7 @@ if("material" %in% report_var){
     # calculate reuse and recycling at regional level, depending on regional (region_bld) TOTAL demands
     mat_reuse_recyc_aggr_i <- mat_stock_i %>%
       ## aggregating demand to regional level
-      group_by(region_bld, region_gea, mat, material, scenario, year) %>%
+      group_by(geo_level, region_gea, mat, material, scenario, year) %>%
       summarise(mat_demand_Mt = sum(mat_demand_Mt),
                 mat_scrap_Mt = sum(mat_scrap_Mt)) %>%
       
@@ -696,7 +696,7 @@ if("material" %in% report_var){
       )  %>%
       
       # select relevant cols
-      select(region_bld, region_gea, mat, material, scenario, year, mat_reuse_Mt, mat_recycling_Mt) %>%
+      select(geo_level, region_gea, mat, material, scenario, year, mat_reuse_Mt, mat_recycling_Mt) %>%
       rename(mat_reuse_aggr_Mt = mat_reuse_Mt,
              mat_recycling_aggr_Mt = mat_recycling_Mt)
     
@@ -719,7 +719,7 @@ if("material" %in% report_var){
       
       # now allocate regional aggregated reuse / recycling using weighting by mat_demand
       left_join(mat_reuse_recyc_aggr_i) %>%
-      group_by(region_bld, region_gea, mat, material, scenario, year) %>%
+      group_by(geo_level, region_gea, mat, material, scenario, year) %>%
       mutate(
         # Calculate the weight for each row within this group
         weight = mat_demand_Mt / sum(mat_demand_Mt),
@@ -823,7 +823,7 @@ if("material" %in% report_var){
   # calculate reuse and recycling at regional level, depending on regional (region_bld) TOTAL demands
   mat_reuse_recyc_aggr_i <- mat_stock_i %>%
     ## aggregating demand to regional level
-    group_by(region_bld, region_gea, mat, material, scenario, year) %>%
+    group_by(geo_level, region_gea, mat, material, scenario, year) %>%
     summarise(mat_demand_Mt = sum(mat_demand_Mt),
               mat_scrap_Mt = sum(mat_scrap_Mt)) %>%
     
@@ -843,7 +843,7 @@ if("material" %in% report_var){
     )  %>%
     
     # select relevant cols
-    select(region_bld, region_gea, mat, material, scenario, year, mat_reuse_Mt, mat_recycling_Mt) %>%
+    select(geo_level, region_gea, mat, material, scenario, year, mat_reuse_Mt, mat_recycling_Mt) %>%
     rename(mat_reuse_aggr_Mt = mat_reuse_Mt,
            mat_recycling_aggr_Mt = mat_recycling_Mt)
   
@@ -866,7 +866,7 @@ if("material" %in% report_var){
     
     # now allocate regional aggregated reuse / recycling using weighting by mat_demand
     left_join(mat_reuse_recyc_aggr_i) %>%
-    group_by(region_bld, region_gea, mat, material, scenario, year) %>%
+    group_by(geo_level, region_gea, mat, material, scenario, year) %>%
     mutate(
       # Calculate the weight for each row within this group
       weight = mat_demand_Mt / sum(mat_demand_Mt),
