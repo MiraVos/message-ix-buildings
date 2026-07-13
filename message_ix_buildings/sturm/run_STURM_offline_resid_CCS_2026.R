@@ -24,7 +24,7 @@ prices <- read_csv(paste0(data_path,"input_prices_R12.csv"))
 
 #Scenarios
 #scenarios = c("NPi-REF","NPi-ACT","NPi-ELE","NPi-TEC","NPi-ALL","1.5C-REF","1.5C-ACT","1.5C-ELE","1.5C-TEC", "1.5C-ALL")
-scenarios = c("SSP2-baseline", "SSP2-CCS-dwn", "SSP2-CCS-dwn-cutoff", "SSP2-DLS") #c("SSP2-NUTS-BLD", "SSP2-NUTS-BLD-DLS", "SSP2-NUTS-BLD-CCS-dwn", "SSP2-NUTS-BLD-CCS-dwn-uniform", "SSP2-NUTS-BLD-CCS-dwn-high","SSP2-NUTS-BLD-CCS-shr", "SSP2-NUTS-BLD-CCS-shr-uniform", "SSP2-NUTS-BLD-CCS-mov", "SSP2-NUTS-BLD-CCS-mov-uniform") 
+scenarios = c("SSP2-NUTS-BLD-CCS-shr", "SSP2-NUTS-BLD-CCS-shr-uniform", "SSP2-NUTS-BLD-CCS-mov", "SSP2-NUTS-BLD-CCS-mov-uniform", "SSP2-NUTS-BLD-DLS") #c("SSP2-NUTS-BLD", "SSP2-NUTS-BLD-DLS", "SSP2-NUTS-BLD-CCS-dwn", "SSP2-NUTS-BLD-CCS-dwn-uniform", "SSP2-NUTS-BLD-CCS-dwn", "SSP2-NUTS-BLD-CCS-dwn-uniform", "SSP2-NUTS-BLD-CCS-dwn-high","SSP2-NUTS-BLD-CCS-shr", "SSP2-NUTS-BLD-CCS-shr-uniform", "SSP2-NUTS-BLD-CCS-mov", "SSP2-NUTS-BLD-CCS-mov-uniform") 
 
 # Regions:
 #regions_eu27_3 <- read_csv(paste0(input_path,"regions_R61_nuts.csv"))$region_nuts#[sample(1:1160, 100)]#NOTE: samples 100 NUTS3 regions from set [1:1165]

@@ -2976,7 +2976,7 @@ C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,1980,p2,0.2663162085035571
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,1985,p2,0.0712262394315229
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,1990,p2,0.0763938269118003
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,1995,p3,0.1104319525834298
-C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,2000,p3,0.09643891982716
+C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,2000,p3,0.0964389198271601
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,2005,p3,0.0767780922196252
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,2010,p3,0.0667467545549238
 C-WEU-GRC,WEU,rur,Zone_5C Cool Marine,perm,mfh,2015,p3,0.0157193879800696
@@ -3929,8 +3929,8 @@ C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,1985,p2,0.2038709943087163
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,1990,p2,0.0135848139778362
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,1995,p3,0.1068373125268543
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2000,p3,0.0797308291733853
-C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2005,p3,0.1574656709004496
-C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2010,p3,0.0258794026224877
+C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2005,p3,0.1574656709004495
+C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2010,p3,0.0258794026224878
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2015,p3,0.0150788060227172
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,mfh,2020,p3,0.0206260456106366
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1945,p1,0.0568812186316809
@@ -3939,7 +3939,7 @@ C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1965,p2,0.0
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1970,p2,0.0
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1975,p2,0.1287747197036301
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1980,p2,0.142335608728174
-C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1985,p2,0.2038710115733811
+C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1985,p2,0.2038710115733812
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1990,p2,0.013584814363655
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,1995,p3,0.1068373040865346
 C-WEU-PRT,WEU,rur,Zone_4A Mixed Humid,perm,sfh,2000,p3,0.0797308199632215
@@ -3961,13 +3961,13 @@ C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,mfh,2005,p3,0.1684139716331255
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,mfh,2010,p3,0.027678750258532996
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,mfh,2015,p3,0.01822278696052613
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,mfh,2020,p3,0.02528014638452191
-C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1945,p1,0.05644734724987795
+C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1945,p1,0.05644734724987798
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1960,p2,0.04844329865496296
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1965,p2,0.0
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1970,p2,0.0
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1975,p2,0.10905869891471129
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1980,p2,0.12054335146567201
-C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1985,p2,0.21491557274995396
+C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1985,p2,0.21491557274995388
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1990,p2,0.014320761628319254
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,1995,p3,0.11262513597012298
 C-WEU-PRT,WEU,rur,Zone_4C Mixed Marine,perm,sfh,2000,p3,0.08405017812967241
@@ -4064,9 +4064,9 @@ C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1960,p2,0.04844329865496297
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1965,p2,0.028605641402660947
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1970,p2,0.03274956638069838
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1975,p2,0.0773084433471079
-C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1980,p2,0.09093839924991601
+C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1980,p2,0.09093839924991604
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1985,p2,0.08847289966258241
-C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1990,p2,0.0810406741974004
+C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1990,p2,0.08104067419740037
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,1995,p3,0.1202566237679509
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,2000,p3,0.13614145085013493
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,mfh,2005,p3,0.09678046335849116
@@ -4078,9 +4078,9 @@ C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1960,p2,0.04844329865496297
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1965,p2,0.028605641402660947
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1970,p2,0.03274956638069838
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1975,p2,0.0773084433471079
-C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1980,p2,0.09093839924991601
+C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1980,p2,0.09093839924991604
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1985,p2,0.08847289966258241
-C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1990,p2,0.0810406741974004
+C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1990,p2,0.08104067419740037
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,1995,p3,0.1202566237679509
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,2000,p3,0.13614145085013493
 C-WEU-PRT,WEU,urb,Zone_4C Mixed Marine,perm,sfh,2005,p3,0.09678046335849116
@@ -4167,7 +4167,7 @@ C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,1985,p2,0.037485760254477786
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,1990,p2,0.05234394978120581
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,1995,p3,0.026825143876590504
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2000,p3,0.02977002766272882
-C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2005,p3,0.011629956387117498
+C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2005,p3,0.011629956387117509
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2010,p3,0.01525001273913467
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2015,p3,0.013115653849606081
 C-WEU-SWE,WEU,rur,Zone_7A Very cold Humid,perm,sfh,2020,p3,0.023388921659347084
@@ -4277,7 +4277,7 @@ C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1975,p2,0.07938301152952942
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1980,p2,0.059765623647054046
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1985,p2,0.02330000390140472
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1990,p2,0.038833507792883803
-C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1995,p3,0.052933377524737646
+C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,1995,p3,0.05293337752473766
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,2000,p3,0.031357992355976805
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,2005,p3,0.010985370897587558
 C-WEU-SWE,WEU,urb,Zone_7A Very cold Humid,perm,sfh,2010,p3,0.01589459822866464
@@ -4287,7 +4287,7 @@ C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1945,p1,0.146950578338
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1960,p2,0.1911759551349456
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1965,p2,0.1098782993078376
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1970,p2,0.1449651128629935
-C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1975,p2,0.0918687586298189
+C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1975,p2,0.091868758629819
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1980,p2,0.0691658523328934
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1985,p2,0.0287547855721897
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,mfh,1990,p2,0.0479248492603378
@@ -4301,7 +4301,7 @@ C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1945,p1,0.146950578338
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1960,p2,0.1911759551349456
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1965,p2,0.1098782993078376
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1970,p2,0.1449651128629935
-C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1975,p2,0.0918687586298189
+C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1975,p2,0.091868758629819
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1980,p2,0.0691658523328934
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1985,p2,0.0287547854707026
 C-WEU-SWE,WEU,urb,Zone_8A Subarctic/arctic Humid,perm,sfh,1990,p2,0.0479248497289698

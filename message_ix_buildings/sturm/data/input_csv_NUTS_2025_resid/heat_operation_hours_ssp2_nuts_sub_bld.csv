@@ -1,0 +1,1387 @@
+clim,region_gea,year,region_bld,value
+Zone_0A Extremely hot Humid,WEU,2015,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2020,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2025,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2030,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2035,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2040,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2045,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2050,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2055,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2060,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2065,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2070,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2075,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2080,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2085,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2090,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2095,C-WEU-FRA,0.0
+Zone_0A Extremely hot Humid,WEU,2100,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2015,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2020,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2025,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2030,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2035,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2040,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2045,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2050,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2055,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2060,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2065,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2070,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2075,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2080,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2085,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2090,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2095,C-WEU-FRA,0.0
+Zone_1A Very hot Humid,WEU,2100,C-WEU-FRA,0.0
+Zone_2A Hot Humid,WEU,2015,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2020,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2025,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2030,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2035,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2040,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2045,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2050,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2055,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2060,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2065,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2070,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2075,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2080,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2085,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2090,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2095,C-WEU-FRA,1.0
+Zone_2A Hot Humid,WEU,2100,C-WEU-FRA,1.0
+Zone_2B Hot Dry,WEU,2015,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2020,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2025,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2030,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2035,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2040,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2045,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2050,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2055,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2060,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2065,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2070,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2075,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2080,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2085,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2090,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2095,C-WEU-ESP,1.0
+Zone_2B Hot Dry,WEU,2100,C-WEU-ESP,1.0
+Zone_3A Warm Humid,EEU,2015,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2020,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2025,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2030,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2035,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2040,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2045,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2050,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2055,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2060,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2065,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2070,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2075,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2080,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2085,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2090,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2095,C-EEU-HRV,2.0
+Zone_3A Warm Humid,EEU,2100,C-EEU-HRV,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2015,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2020,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2025,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2030,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2035,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2040,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2045,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2050,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2055,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2060,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2065,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2070,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2075,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2080,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2085,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2090,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2095,C-WEU-PRT,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-CYP,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-ESP,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-FRA,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-GRC,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-ITA,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-MLT,2.0
+Zone_3A Warm Humid,WEU,2100,C-WEU-PRT,2.0
+Zone_3B Warm Dry,WEU,2015,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2020,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2025,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2030,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2035,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2040,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2045,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2050,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2055,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2060,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2065,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2070,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2075,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2080,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2085,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2090,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2095,C-WEU-ESP,2.0
+Zone_3B Warm Dry,WEU,2100,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2015,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2015,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2015,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2020,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2020,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2020,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2025,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2025,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2025,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2030,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2030,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2030,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2035,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2035,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2035,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2040,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2040,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2040,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2045,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2045,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2045,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2050,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2050,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2050,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2055,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2055,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2055,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2060,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2060,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2060,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2065,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2065,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2065,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2070,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2070,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2070,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2075,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2075,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2075,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2080,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2080,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2080,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2085,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2085,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2085,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2090,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2090,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2090,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2095,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2095,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2095,C-WEU-PRT,2.0
+Zone_3C Warm Marine,WEU,2100,C-WEU-ESP,2.0
+Zone_3C Warm Marine,WEU,2100,C-WEU-FRA,2.0
+Zone_3C Warm Marine,WEU,2100,C-WEU-PRT,2.0
+Zone_4A Mixed Humid,EEU,2015,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2015,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2015,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2015,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2015,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2020,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2020,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2020,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2020,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2020,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2025,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2025,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2025,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2025,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2025,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2030,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2030,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2030,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2030,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2030,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2035,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2035,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2035,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2035,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2035,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2040,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2040,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2040,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2040,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2040,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2045,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2045,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2045,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2045,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2045,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2050,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2050,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2050,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2050,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2050,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2055,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2055,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2055,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2055,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2055,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2060,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2060,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2060,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2060,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2060,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2065,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2065,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2065,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2065,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2065,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2070,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2070,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2070,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2070,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2070,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2075,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2075,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2075,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2075,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2075,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2080,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2080,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2080,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2080,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2080,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2085,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2085,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2085,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2085,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2085,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2090,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2090,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2090,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2090,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2090,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2095,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2095,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2095,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2095,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2095,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,EEU,2100,C-EEU-BGR,6.0
+Zone_4A Mixed Humid,EEU,2100,C-EEU-HRV,6.0
+Zone_4A Mixed Humid,EEU,2100,C-EEU-HUN,6.0
+Zone_4A Mixed Humid,EEU,2100,C-EEU-ROU,6.0
+Zone_4A Mixed Humid,EEU,2100,C-EEU-SVN,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2015,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2020,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2025,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2030,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2035,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2040,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2045,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2050,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2055,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2060,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2065,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2070,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2075,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2080,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2085,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2090,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2095,C-WEU-PRT,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-AUT,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-BEL,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-DEU,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-ESP,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-FRA,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-GRC,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-IRL,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-ITA,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-NLD,6.0
+Zone_4A Mixed Humid,WEU,2100,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,EEU,2015,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2020,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2025,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2030,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2035,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2040,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2045,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2050,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2055,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2060,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2065,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2070,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2075,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2080,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2085,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2090,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2095,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,EEU,2100,C-EEU-HRV,6.0
+Zone_4C Mixed Marine,WEU,2015,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2015,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2015,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2015,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2015,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2020,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2020,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2020,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2020,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2020,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2025,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2025,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2025,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2025,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2025,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2030,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2030,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2030,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2030,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2030,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2035,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2035,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2035,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2035,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2035,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2040,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2040,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2040,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2040,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2040,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2045,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2045,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2045,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2045,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2045,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2050,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2050,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2050,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2050,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2050,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2055,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2055,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2055,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2055,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2055,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2060,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2060,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2060,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2060,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2060,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2065,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2065,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2065,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2065,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2065,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2070,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2070,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2070,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2070,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2070,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2075,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2075,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2075,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2075,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2075,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2080,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2080,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2080,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2080,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2080,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2085,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2085,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2085,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2085,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2085,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2090,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2090,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2090,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2090,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2090,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2095,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2095,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2095,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2095,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2095,C-WEU-PRT,6.0
+Zone_4C Mixed Marine,WEU,2100,C-WEU-ESP,6.0
+Zone_4C Mixed Marine,WEU,2100,C-WEU-FRA,6.0
+Zone_4C Mixed Marine,WEU,2100,C-WEU-GRC,6.0
+Zone_4C Mixed Marine,WEU,2100,C-WEU-ITA,6.0
+Zone_4C Mixed Marine,WEU,2100,C-WEU-PRT,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2015,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2020,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2025,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2030,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2035,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2040,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2045,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2050,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2055,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2060,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2065,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2070,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2075,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2080,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2085,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2090,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2095,C-EEU-SVN,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-BGR,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-CZE,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-HRV,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-HUN,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-LTU,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-POL,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-ROU,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-SVK,6.0
+Zone_5A Cool Humid,EEU,2100,C-EEU-SVN,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2015,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2020,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2025,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2030,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2035,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2040,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2045,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2050,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2055,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2060,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2065,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2070,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2075,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2080,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2085,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2090,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2095,C-WEU-SWE,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-AUT,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-BEL,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-DEU,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-DNK,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-FRA,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-GRC,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-IRL,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-ITA,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-LUX,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-NLD,6.0
+Zone_5A Cool Humid,WEU,2100,C-WEU-SWE,6.0
+Zone_5C Cool Marine,WEU,2015,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2015,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2020,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2020,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2025,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2025,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2030,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2030,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2035,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2035,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2040,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2040,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2045,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2045,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2050,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2050,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2055,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2055,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2060,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2060,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2065,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2065,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2070,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2070,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2075,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2075,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2080,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2080,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2085,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2085,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2090,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2090,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2095,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2095,C-WEU-ITA,6.0
+Zone_5C Cool Marine,WEU,2100,C-WEU-GRC,6.0
+Zone_5C Cool Marine,WEU,2100,C-WEU-ITA,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2015,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2020,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2025,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2030,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2035,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2040,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2045,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2050,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2055,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2060,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2065,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2070,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2075,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2080,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2085,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2090,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2095,C-EEU-SVK,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-EST,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-LTU,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-LVA,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-POL,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-ROU,6.0
+Zone_6A Cold Humid,EEU,2100,C-EEU-SVK,6.0
+Zone_6A Cold Humid,WEU,2015,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2015,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2015,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2015,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2015,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2020,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2020,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2020,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2020,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2020,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2025,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2025,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2025,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2025,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2025,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2030,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2030,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2030,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2030,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2030,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2035,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2035,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2035,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2035,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2035,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2040,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2040,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2040,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2040,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2040,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2045,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2045,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2045,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2045,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2045,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2050,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2050,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2050,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2050,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2050,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2055,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2055,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2055,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2055,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2055,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2060,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2060,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2060,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2060,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2060,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2065,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2065,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2065,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2065,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2065,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2070,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2070,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2070,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2070,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2070,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2075,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2075,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2075,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2075,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2075,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2080,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2080,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2080,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2080,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2080,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2085,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2085,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2085,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2085,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2085,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2090,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2090,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2090,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2090,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2090,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2095,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2095,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2095,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2095,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2095,C-WEU-SWE,6.0
+Zone_6A Cold Humid,WEU,2100,C-WEU-AUT,6.0
+Zone_6A Cold Humid,WEU,2100,C-WEU-DEU,6.0
+Zone_6A Cold Humid,WEU,2100,C-WEU-FIN,6.0
+Zone_6A Cold Humid,WEU,2100,C-WEU-ITA,6.0
+Zone_6A Cold Humid,WEU,2100,C-WEU-SWE,6.0
+Zone_7A Very cold Humid,EEU,2015,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2020,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2025,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2030,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2035,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2040,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2045,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2050,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2055,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2060,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2065,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2070,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2075,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2080,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2085,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2090,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2095,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,EEU,2100,C-EEU-SVN,12.0
+Zone_7A Very cold Humid,WEU,2015,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2015,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2015,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2015,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2015,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2020,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2020,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2020,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2020,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2020,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2025,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2025,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2025,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2025,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2025,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2030,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2030,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2030,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2030,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2030,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2035,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2035,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2035,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2035,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2035,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2040,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2040,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2040,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2040,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2040,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2045,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2045,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2045,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2045,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2045,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2050,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2050,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2050,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2050,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2050,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2055,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2055,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2055,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2055,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2055,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2060,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2060,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2060,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2060,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2060,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2065,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2065,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2065,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2065,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2065,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2070,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2070,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2070,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2070,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2070,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2075,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2075,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2075,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2075,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2075,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2080,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2080,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2080,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2080,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2080,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2085,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2085,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2085,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2085,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2085,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2090,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2090,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2090,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2090,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2090,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2095,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2095,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2095,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2095,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2095,C-WEU-SWE,12.0
+Zone_7A Very cold Humid,WEU,2100,C-WEU-AUT,12.0
+Zone_7A Very cold Humid,WEU,2100,C-WEU-FIN,12.0
+Zone_7A Very cold Humid,WEU,2100,C-WEU-FRA,12.0
+Zone_7A Very cold Humid,WEU,2100,C-WEU-ITA,12.0
+Zone_7A Very cold Humid,WEU,2100,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2015,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2020,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2025,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2030,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2035,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2040,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2045,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2050,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2055,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2060,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2065,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2070,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2075,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2080,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2085,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2090,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2095,C-WEU-SWE,12.0
+Zone_8A Subarctic/arctic Humid,WEU,2100,C-WEU-SWE,12.0

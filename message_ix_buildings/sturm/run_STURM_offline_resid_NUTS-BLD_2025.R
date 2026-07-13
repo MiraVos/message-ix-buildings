@@ -50,7 +50,7 @@ for(s in scenarios){
                                   geo_levels = c("region_bld", "region_gea"), # Levels to keep track of
                                   geo_level_report="region_bld", # Level for reporting
                                   region_select = list("region_bld", regions_eu27_3), #NULL 
-                                  yrs = seq(2020,2050,5), #seq(2020,2050,15) #seq(2020,2030,5) #c(seq(2020,2060,5),seq(2070,2100,10))
+                                  yrs = seq(2020,2060,5), #seq(2020,2050,15) #seq(2020,2030,5) #c(seq(2020,2060,5),seq(2070,2100,10))
                                   input_mode = "csv",
                                   mod_arch = "stock",
                                   mod_new = "endogenous",#"external", 

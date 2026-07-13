@@ -104,14 +104,14 @@ C-EEU-CZE,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s1,1.0
-C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s2,0.971686694
+C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s2,0.97169
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s3,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr11_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr12_low,1.0
-C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr21_std,0.971686694
-C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr22_low,0.971686694
+C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr21_std,0.97169
+C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr22_low,0.97169
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,inf,ns,1.0
@@ -127,40 +127,40 @@ C-EEU-CZE,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s1,1.0
-C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s2,0.977383106
+C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s2,0.97738
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s3,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr11_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr12_low,1.0
-C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr21_std,0.977383106
-C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr22_low,0.977383106
+C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr21_std,0.97738
+C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr22_low,0.97738
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-EEU-CZE,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,rur,inf,ns,0.848351311
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s1,0.999982279
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s2,0.999982279
+C-EEU-EST,Zone_6A Cold Humid,rur,inf,ns,0.84835
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s1,0.99998
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s2,0.99998
 C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s3,1.0
 C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s51_std,1.0
 C-EEU-EST,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr11_std,0.999982279
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr12_low,0.999982279
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr21_std,0.999982279
-C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr22_low,0.999982279
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr11_std,0.99998
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr12_low,0.99998
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr21_std,0.99998
+C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr22_low,0.99998
 C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr31_std,1.0
 C-EEU-EST,Zone_6A Cold Humid,rur,mfh,sr32_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s1,0.848351311
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s2,0.561986815
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s3,0.89039259
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s51_std,0.999982279
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s1,0.84835
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s2,0.56199
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s3,0.89039
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s51_std,0.99998
 C-EEU-EST,Zone_6A Cold Humid,rur,sfh,s52_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr11_std,0.848351311
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr12_low,0.848351311
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr21_std,0.561986815
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr22_low,0.561986815
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr31_std,0.89039259
-C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr32_low,0.89039259
-C-EEU-EST,Zone_6A Cold Humid,urb,inf,ns,0.436382524
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr11_std,0.84835
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr12_low,0.84835
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr21_std,0.56199
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr22_low,0.56199
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr31_std,0.89039
+C-EEU-EST,Zone_6A Cold Humid,rur,sfh,sr32_low,0.89039
+C-EEU-EST,Zone_6A Cold Humid,urb,inf,ns,0.87277
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,s1,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,s3,1.0
@@ -172,17 +172,17 @@ C-EEU-EST,Zone_6A Cold Humid,urb,mfh,sr21_std,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,sr22_low,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,sr31_std,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,mfh,sr32_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s1,0.436382524
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s2,0.283025488
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s3,0.445700251
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s1,0.43638
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s2,0.28303
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s3,0.4457
 C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s51_std,1.0
 C-EEU-EST,Zone_6A Cold Humid,urb,sfh,s52_low,1.0
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr11_std,0.436382524
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr12_low,0.436382524
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr21_std,0.283025488
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr22_low,0.283025488
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr31_std,0.445700251
-C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr32_low,0.445700251
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr11_std,0.43638
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr12_low,0.43638
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr21_std,0.28303
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr22_low,0.28303
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr31_std,0.4457
+C-EEU-EST,Zone_6A Cold Humid,urb,sfh,sr32_low,0.4457
 C-EEU-HRV,Zone_3A Warm Humid,rur,inf,ns,1.0
 C-EEU-HRV,Zone_3A Warm Humid,rur,mfh,s1,1.0
 C-EEU-HRV,Zone_3A Warm Humid,rur,mfh,s2,1.0
@@ -275,32 +275,32 @@ C-EEU-HRV,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-EEU-HRV,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-EEU-HRV,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-EEU-HRV,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,rur,inf,ns,1.97143638
+C-EEU-HRV,Zone_4C Mixed Marine,rur,inf,ns,0.98572
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s1,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s2,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s3,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s51_std,0.99987076
-C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s52_low,0.99987076
+C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s51_std,0.99987
+C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,s52_low,0.99987
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr11_std,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.99987076
+C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.99987
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr21_std,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr22_low,0.99987076
+C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr22_low,0.99987
 C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr31_std,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr32_low,0.99987076
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s1,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s2,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s3,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s51_std,0.99987076
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s52_low,0.99987076
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.98571819
-C-EEU-HRV,Zone_4C Mixed Marine,urb,inf,ns,1.92512616
-C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s1,0.97259721
-C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s2,0.97259721
+C-EEU-HRV,Zone_4C Mixed Marine,rur,mfh,sr32_low,0.99987
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s1,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s2,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s3,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s51_std,0.99987
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,s52_low,0.99987
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.98572
+C-EEU-HRV,Zone_4C Mixed Marine,urb,inf,ns,0.96256
+C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s1,0.9726
+C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s2,0.9726
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s3,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s51_std,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,s52_low,1.0
@@ -310,7 +310,7 @@ C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,sr21_std,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,sr22_low,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,sr31_std,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,mfh,sr32_low,1.0
-C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,s1,0.96256308
+C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,s1,0.96256
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,s2,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,s3,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,s51_std,1.0
@@ -321,52 +321,52 @@ C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,sr21_std,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,sr22_low,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,sr31_std,1.0
 C-EEU-HRV,Zone_4C Mixed Marine,urb,sfh,sr32_low,1.0
-C-EEU-HRV,Zone_5A Cool Humid,rur,inf,ns,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s1,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s2,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s3,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s51_std,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s52_low,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr11_std,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr12_low,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr21_std,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr22_low,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr31_std,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr32_low,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s1,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s2,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s3,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s51_std,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s52_low,0.999612273
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr11_std,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr12_low,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr21_std,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr22_low,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr31_std,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr32_low,0.957154584
-C-EEU-HRV,Zone_5A Cool Humid,urb,inf,ns,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s1,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s2,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s3,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s51_std,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s52_low,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr11_std,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr12_low,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr21_std,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr22_low,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr31_std,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr32_low,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s1,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s2,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s3,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s51_std,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s52_low,0.917791637
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr11_std,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr12_low,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr21_std,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr22_low,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr31_std,0.887689226
-C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr32_low,0.887689226
+C-EEU-HRV,Zone_5A Cool Humid,rur,inf,ns,0.95272
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s1,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s2,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s3,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s51_std,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,s52_low,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr11_std,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr12_low,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr21_std,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr22_low,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr31_std,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,mfh,sr32_low,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s1,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s2,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s3,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s51_std,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,s52_low,0.99961
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr11_std,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr12_low,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr21_std,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr22_low,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr31_std,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,rur,sfh,sr32_low,0.95715
+C-EEU-HRV,Zone_5A Cool Humid,urb,inf,ns,0.91799
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s1,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s2,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s3,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s51_std,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,s52_low,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr11_std,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr12_low,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr21_std,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr22_low,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr31_std,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,mfh,sr32_low,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s1,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s2,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s3,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s51_std,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,s52_low,0.91779
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr11_std,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr12_low,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr21_std,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr22_low,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr31_std,0.88769
+C-EEU-HRV,Zone_5A Cool Humid,urb,sfh,sr32_low,0.88769
 C-EEU-HUN,Zone_4A Mixed Humid,rur,inf,ns,1.0
 C-EEU-HUN,Zone_4A Mixed Humid,rur,mfh,s1,1.0
 C-EEU-HUN,Zone_4A Mixed Humid,rur,mfh,s2,1.0
@@ -459,30 +459,30 @@ C-EEU-HUN,Zone_5A Cool Humid,urb,sfh,sr21_std,1.0
 C-EEU-HUN,Zone_5A Cool Humid,urb,sfh,sr22_low,1.0
 C-EEU-HUN,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-EEU-HUN,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-EEU-LTU,Zone_5A Cool Humid,rur,inf,ns,1.9999999999999998
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s1,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s2,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s3,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s51_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s52_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr11_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr12_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr21_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr22_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr31_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr32_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s1,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s2,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s3,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s51_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s52_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr11_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr12_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr21_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr22_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr31_std,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr32_low,0.9999999999999999
-C-EEU-LTU,Zone_5A Cool Humid,urb,inf,ns,2.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,inf,ns,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s1,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s2,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s3,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr11_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr12_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s1,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s2,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s3,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr11_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr12_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr21_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr22_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
+C-EEU-LTU,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
+C-EEU-LTU,Zone_5A Cool Humid,urb,inf,ns,1.0
 C-EEU-LTU,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-EEU-LTU,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-EEU-LTU,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -597,7 +597,7 @@ C-EEU-LVA,Zone_6A Cold Humid,urb,sfh,sr21_std,1.0
 C-EEU-LVA,Zone_6A Cold Humid,urb,sfh,sr22_low,1.0
 C-EEU-LVA,Zone_6A Cold Humid,urb,sfh,sr31_std,1.0
 C-EEU-LVA,Zone_6A Cold Humid,urb,sfh,sr32_low,1.0
-C-EEU-POL,Zone_5A Cool Humid,rur,inf,ns,0.999991504
+C-EEU-POL,Zone_5A Cool Humid,rur,inf,ns,0.99999
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -609,17 +609,17 @@ C-EEU-POL,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s1,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s2,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s3,0.999991504
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s1,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s2,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s3,0.99999
 C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-EEU-POL,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr11_std,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr12_low,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr21_std,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr22_low,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr31_std,0.999991504
-C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr32_low,0.999991504
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr11_std,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr12_low,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr21_std,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr22_low,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr31_std,0.99999
+C-EEU-POL,Zone_5A Cool Humid,rur,sfh,sr32_low,0.99999
 C-EEU-POL,Zone_5A Cool Humid,urb,inf,ns,1.0
 C-EEU-POL,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-EEU-POL,Zone_5A Cool Humid,urb,mfh,s2,1.0
@@ -643,7 +643,7 @@ C-EEU-POL,Zone_5A Cool Humid,urb,sfh,sr21_std,1.0
 C-EEU-POL,Zone_5A Cool Humid,urb,sfh,sr22_low,1.0
 C-EEU-POL,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-EEU-POL,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-EEU-POL,Zone_6A Cold Humid,rur,inf,ns,1.9999829999999998
+C-EEU-POL,Zone_6A Cold Humid,rur,inf,ns,0.99999
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,s1,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,s2,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,s3,1.0
@@ -655,18 +655,18 @@ C-EEU-POL,Zone_6A Cold Humid,rur,mfh,sr21_std,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,sr22_low,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,sr31_std,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,mfh,sr32_low,1.0
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s1,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s2,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s3,0.9999914999999999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s1,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s2,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s3,0.99999
 C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s51_std,1.0
 C-EEU-POL,Zone_6A Cold Humid,rur,sfh,s52_low,1.0
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr11_std,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr12_low,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr21_std,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr22_low,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr31_std,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr32_low,0.9999914999999999
-C-EEU-POL,Zone_6A Cold Humid,urb,inf,ns,2.0
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr11_std,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr12_low,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr21_std,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr22_low,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr31_std,0.99999
+C-EEU-POL,Zone_6A Cold Humid,rur,sfh,sr32_low,0.99999
+C-EEU-POL,Zone_6A Cold Humid,urb,inf,ns,1.0
 C-EEU-POL,Zone_6A Cold Humid,urb,mfh,s1,1.0
 C-EEU-POL,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-EEU-POL,Zone_6A Cold Humid,urb,mfh,s3,1.0
@@ -735,7 +735,7 @@ C-EEU-ROU,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-EEU-ROU,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-EEU-ROU,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-EEU-ROU,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-EEU-ROU,Zone_5A Cool Humid,rur,inf,ns,0.954208652
+C-EEU-ROU,Zone_5A Cool Humid,rur,inf,ns,0.95421
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -747,18 +747,18 @@ C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-EEU-ROU,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s1,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s2,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s3,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s51_std,0.973709214
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s1,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s2,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s3,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s51_std,0.97371
 C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr11_std,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr12_low,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr21_std,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr22_low,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr31_std,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr32_low,0.954208652
-C-EEU-ROU,Zone_5A Cool Humid,urb,inf,ns,0.964581424
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr11_std,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr12_low,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr21_std,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr22_low,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr31_std,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,rur,sfh,sr32_low,0.95421
+C-EEU-ROU,Zone_5A Cool Humid,urb,inf,ns,0.96458
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -770,63 +770,63 @@ C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-EEU-ROU,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s1,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s2,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s3,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s51_std,0.971076026
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s1,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s2,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s3,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s51_std,0.97108
 C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr11_std,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr12_low,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr21_std,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr22_low,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr31_std,0.964581424
-C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr32_low,0.964581424
-C-EEU-ROU,Zone_6A Cold Humid,rur,inf,ns,0.125642046
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s1,0.464121507
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s2,0.416855652
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s3,0.591399962
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s51_std,0.761386469
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr11_std,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr12_low,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr21_std,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr22_low,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr31_std,0.96458
+C-EEU-ROU,Zone_5A Cool Humid,urb,sfh,sr32_low,0.96458
+C-EEU-ROU,Zone_6A Cold Humid,rur,inf,ns,0.25128
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s1,0.46412
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s2,0.41686
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s3,0.5914
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s51_std,0.76139
 C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr11_std,0.464121507
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr12_low,0.464121507
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr21_std,0.416855652
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr22_low,0.416855652
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr31_std,0.591399962
-C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr32_low,0.591399962
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s1,0.125642046
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr11_std,0.46412
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr12_low,0.46412
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr21_std,0.41686
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr22_low,0.41686
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr31_std,0.5914
+C-EEU-ROU,Zone_6A Cold Humid,rur,mfh,sr32_low,0.5914
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s1,0.12564
 C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s2,0.0
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s3,0.199333294
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s51_std,0.342854408
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s52_low,0.761386469
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr11_std,0.125642046
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr12_low,0.125642046
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s3,0.19933
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s51_std,0.34285
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,s52_low,0.76139
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr11_std,0.12564
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr12_low,0.12564
 C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr21_std,0.0
 C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr22_low,0.0
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr31_std,0.199333294
-C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr32_low,0.199333294
-C-EEU-ROU,Zone_6A Cold Humid,urb,inf,ns,0.055114954
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s1,0.558245943
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s2,0.505518658
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s3,0.733821339
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s51_std,0.902669792
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr31_std,0.19933
+C-EEU-ROU,Zone_6A Cold Humid,rur,sfh,sr32_low,0.19933
+C-EEU-ROU,Zone_6A Cold Humid,urb,inf,ns,0.11023
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s1,0.55825
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s2,0.50552
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s3,0.73382
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s51_std,0.90267
 C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,s52_low,1.0
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr11_std,0.558245943
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr12_low,0.558245943
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr21_std,0.505518658
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr22_low,0.505518658
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr31_std,0.733821339
-C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr32_low,0.733821339
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s1,0.055114954
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr11_std,0.55825
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr12_low,0.55825
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr21_std,0.50552
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr22_low,0.50552
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr31_std,0.73382
+C-EEU-ROU,Zone_6A Cold Humid,urb,mfh,sr32_low,0.73382
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s1,0.05511
 C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s2,0.0
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s3,0.165793492
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s51_std,0.458754265
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s52_low,0.902669792
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr11_std,0.055114954
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr12_low,0.055114954
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s3,0.16579
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s51_std,0.45875
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,s52_low,0.90267
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr11_std,0.05511
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr12_low,0.05511
 C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr21_std,0.0
 C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr22_low,0.0
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr31_std,0.165793492
-C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr32_low,0.165793492
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr31_std,0.16579
+C-EEU-ROU,Zone_6A Cold Humid,urb,sfh,sr32_low,0.16579
 C-EEU-SVK,Zone_5A Cool Humid,rur,inf,ns,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,mfh,s2,1.0
@@ -840,14 +840,14 @@ C-EEU-SVK,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s1,1.0
-C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s2,0.964210481
+C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s2,0.96421
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s3,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr11_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr12_low,1.0
-C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr21_std,0.964210481
-C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr22_low,0.964210481
+C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr21_std,0.96421
+C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr22_low,0.96421
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,inf,ns,1.0
@@ -863,63 +863,63 @@ C-EEU-SVK,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s1,1.0
-C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s2,0.996653664
+C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s2,0.99665
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s3,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr11_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr12_low,1.0
-C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr21_std,0.996653664
-C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr22_low,0.996653664
+C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr21_std,0.99665
+C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr22_low,0.99665
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-EEU-SVK,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-EEU-SVK,Zone_6A Cold Humid,rur,inf,ns,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s1,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s2,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s3,0.757498266
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s51_std,0.918435194
+C-EEU-SVK,Zone_6A Cold Humid,rur,inf,ns,0.82045
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s1,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s2,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s3,0.7575
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s51_std,0.91844
 C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr11_std,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr12_low,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr21_std,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr22_low,0.423492824
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr31_std,0.757498266
-C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr32_low,0.757498266
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s1,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s2,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s3,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s51_std,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s52_low,0.918435194
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr11_std,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr12_low,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr21_std,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr22_low,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr31_std,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr32_low,0.292269875
-C-EEU-SVK,Zone_6A Cold Humid,urb,inf,ns,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s1,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s2,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s3,0.821537749
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s51_std,0.879699499
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr11_std,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr12_low,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr21_std,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr22_low,0.42349
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr31_std,0.7575
+C-EEU-SVK,Zone_6A Cold Humid,rur,mfh,sr32_low,0.7575
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s1,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s2,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s3,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s51_std,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,s52_low,0.91844
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr11_std,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr12_low,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr21_std,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr22_low,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr31_std,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,rur,sfh,sr32_low,0.29227
+C-EEU-SVK,Zone_6A Cold Humid,urb,inf,ns,0.85813
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s1,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s2,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s3,0.82154
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s51_std,0.8797
 C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,s52_low,1.0
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr11_std,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr12_low,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr21_std,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr22_low,0.639012171
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr31_std,0.821537749
-C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr32_low,0.821537749
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s1,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s2,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s3,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s51_std,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s52_low,0.879699499
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr11_std,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr12_low,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr21_std,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr22_low,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr31_std,0.456426772
-C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr32_low,0.456426772
-C-EEU-SVN,Zone_4A Mixed Humid,rur,inf,ns,1.5082545
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr11_std,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr12_low,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr21_std,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr22_low,0.63901
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr31_std,0.82154
+C-EEU-SVK,Zone_6A Cold Humid,urb,mfh,sr32_low,0.82154
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s1,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s2,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s3,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s51_std,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,s52_low,0.8797
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr11_std,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr12_low,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr21_std,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr22_low,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr31_std,0.45643
+C-EEU-SVK,Zone_6A Cold Humid,urb,sfh,sr32_low,0.45643
+C-EEU-SVN,Zone_4A Mixed Humid,rur,inf,ns,0.75413
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,s1,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,s2,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,s3,1.0
@@ -931,18 +931,18 @@ C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,sr21_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,sr22_low,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,sr31_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,mfh,sr32_low,1.0
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s1,0.75412725
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s2,0.47401379
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s3,0.75412725
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s1,0.75413
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s2,0.47401
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s3,0.75413
 C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s51_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,s52_low,1.0
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.75412725
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.75412725
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.47401379
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.47401379
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.75412725
-C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.75412725
-C-EEU-SVN,Zone_4A Mixed Humid,urb,inf,ns,1.37140634
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.75413
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.75413
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.47401
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.47401
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.75413
+C-EEU-SVN,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.75413
+C-EEU-SVN,Zone_4A Mixed Humid,urb,inf,ns,0.6857
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,s1,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,s2,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,s3,1.0
@@ -954,18 +954,18 @@ C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,sr21_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,sr22_low,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,sr31_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,mfh,sr32_low,1.0
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s1,0.68570317
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s2,0.43373615
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s3,0.68570317
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s1,0.6857
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s2,0.43374
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s3,0.6857
 C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s51_std,1.0
 C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,s52_low,1.0
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr11_std,0.68570317
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr12_low,0.68570317
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr21_std,0.43373615
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr22_low,0.43373615
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr31_std,0.68570317
-C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr32_low,0.68570317
-C-EEU-SVN,Zone_5A Cool Humid,rur,inf,ns,0.754127248
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr11_std,0.6857
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr12_low,0.6857
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr21_std,0.43374
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr22_low,0.43374
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr31_std,0.6857
+C-EEU-SVN,Zone_4A Mixed Humid,urb,sfh,sr32_low,0.6857
+C-EEU-SVN,Zone_5A Cool Humid,rur,inf,ns,0.75413
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -977,18 +977,18 @@ C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s1,0.754127248
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s2,0.474013794
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s3,0.754127248
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s1,0.75413
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s2,0.47401
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s3,0.75413
 C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr11_std,0.754127248
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr12_low,0.754127248
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr21_std,0.474013794
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr22_low,0.474013794
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr31_std,0.754127248
-C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr32_low,0.754127248
-C-EEU-SVN,Zone_5A Cool Humid,urb,inf,ns,0.685703171
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr11_std,0.75413
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr12_low,0.75413
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr21_std,0.47401
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr22_low,0.47401
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr31_std,0.75413
+C-EEU-SVN,Zone_5A Cool Humid,rur,sfh,sr32_low,0.75413
+C-EEU-SVN,Zone_5A Cool Humid,urb,inf,ns,0.6857
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -1000,63 +1000,63 @@ C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s1,0.685703171
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s2,0.433736149
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s3,0.685703171
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s1,0.6857
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s2,0.43374
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s3,0.6857
 C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr11_std,0.685703171
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr12_low,0.685703171
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr21_std,0.433736149
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr22_low,0.433736149
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr31_std,0.685703171
-C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr32_low,0.685703171
-C-EEU-SVN,Zone_7A Very cold Humid,rur,inf,ns,0.21291786
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s1,0.51825185
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s2,0.71387623
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s3,0.9385073
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97157612
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869148
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825185
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825185
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71387623
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71387623
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.9385073
-C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.9385073
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s1,0.10645893
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s2,0.3172298
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s3,0.62206515
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76391935
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464045
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10645893
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10645893
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.3172298
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.3172298
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62206515
-C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62206515
-C-EEU-SVN,Zone_7A Very cold Humid,urb,inf,ns,0.21566328
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s1,0.58548779
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s2,0.7022477
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr11_std,0.6857
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr12_low,0.6857
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr21_std,0.43374
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr22_low,0.43374
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr31_std,0.6857
+C-EEU-SVN,Zone_5A Cool Humid,urb,sfh,sr32_low,0.6857
+C-EEU-SVN,Zone_7A Very cold Humid,rur,inf,ns,0.21292
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s1,0.51825
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s2,0.71388
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s3,0.93851
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97158
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71388
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71388
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.93851
+C-EEU-SVN,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.93851
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s1,0.10646
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s2,0.31723
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s3,0.62207
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76392
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10646
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10646
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.31723
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.31723
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62207
+C-EEU-SVN,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62207
+C-EEU-SVN,Zone_7A Very cold Humid,urb,inf,ns,0.21566
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s1,0.58549
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s2,0.70225
 C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s3,1.0
 C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s51_std,1.0
 C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,s52_low,1.0
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58548779
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58548779
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.7022477
-C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.7022477
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58549
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58549
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.70225
+C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.70225
 C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr31_std,1.0
 C-EEU-SVN,Zone_7A Very cold Humid,urb,mfh,sr32_low,1.0
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s1,0.10783164
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s2,0.36509801
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s3,0.59613846
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72086853
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s1,0.10783
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s2,0.3651
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s3,0.59614
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72087
 C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,s52_low,1.0
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783164
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783164
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.36509801
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.36509801
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59613846
-C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59613846
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.3651
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.3651
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59614
+C-EEU-SVN,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59614
 C-WEU-AUT,Zone_4A Mixed Humid,rur,inf,ns,1.0
 C-WEU-AUT,Zone_4A Mixed Humid,rur,mfh,s1,1.0
 C-WEU-AUT,Zone_4A Mixed Humid,rur,mfh,s2,1.0
@@ -1103,69 +1103,69 @@ C-WEU-AUT,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-WEU-AUT,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-WEU-AUT,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-WEU-AUT,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,rur,inf,ns,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s1,0.891159739
+C-WEU-AUT,Zone_5A Cool Humid,rur,inf,ns,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s1,0.89116
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s3,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr11_std,0.891159739
-C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr12_low,0.891159739
+C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr11_std,0.89116
+C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr12_low,0.89116
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s1,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s2,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s3,0.926642735
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s1,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s2,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s3,0.92664
 C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr11_std,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr12_low,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr21_std,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr22_low,0.784584595
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr31_std,0.926642735
-C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr32_low,0.926642735
-C-WEU-AUT,Zone_5A Cool Humid,urb,inf,ns,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s1,0.899085165
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr11_std,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr12_low,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr21_std,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr22_low,0.78458
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr31_std,0.92664
+C-WEU-AUT,Zone_5A Cool Humid,rur,sfh,sr32_low,0.92664
+C-WEU-AUT,Zone_5A Cool Humid,urb,inf,ns,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s1,0.89909
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s3,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s51_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,s52_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr11_std,0.899085165
-C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr12_low,0.899085165
+C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr11_std,0.89909
+C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr12_low,0.89909
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s1,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s2,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s3,0.949263886
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s1,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s2,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s3,0.94926
 C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr11_std,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr12_low,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr21_std,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr22_low,0.852539672
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr31_std,0.949263886
-C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr32_low,0.949263886
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr11_std,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr12_low,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr21_std,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr22_low,0.85254
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr31_std,0.94926
+C-WEU-AUT,Zone_5A Cool Humid,urb,sfh,sr32_low,0.94926
 C-WEU-AUT,Zone_6A Cold Humid,rur,inf,ns,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s1,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s2,0.0
-C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s3,0.426115398
-C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s51_std,0.695693855
-C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s52_low,0.760604768
+C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s3,0.42612
+C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s51_std,0.69569
+C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,s52_low,0.7606
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr11_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr12_low,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr21_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr22_low,0.0
-C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr31_std,0.426115398
-C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr32_low,0.426115398
+C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr31_std,0.42612
+C-WEU-AUT,Zone_6A Cold Humid,rur,mfh,sr32_low,0.42612
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s1,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s2,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s3,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s51_std,0.0
-C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s52_low,0.519950522
+C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,s52_low,0.51995
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,sr11_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,sr12_low,0.0
 C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,sr21_std,0.0
@@ -1175,20 +1175,20 @@ C-WEU-AUT,Zone_6A Cold Humid,rur,sfh,sr32_low,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,inf,ns,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s1,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s2,0.0
-C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s3,0.866104627
-C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s51_std,0.907783957
-C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s52_low,0.922201655
+C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s3,0.8661
+C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s51_std,0.90778
+C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,s52_low,0.9222
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr11_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr12_low,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr21_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr22_low,0.0
-C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr31_std,0.866104627
-C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr32_low,0.866104627
+C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr31_std,0.8661
+C-WEU-AUT,Zone_6A Cold Humid,urb,mfh,sr32_low,0.8661
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s1,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s2,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s3,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s51_std,0.0
-C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s52_low,0.902044198
+C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,s52_low,0.90204
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,sr11_std,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,sr12_low,0.0
 C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,sr21_std,0.0
@@ -1198,20 +1198,20 @@ C-WEU-AUT,Zone_6A Cold Humid,urb,sfh,sr32_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,inf,ns,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s1,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s2,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s3,0.4261154
-C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s51_std,0.69569386
-C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s52_low,0.76060477
+C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s3,0.42612
+C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s51_std,0.69569
+C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,s52_low,0.7606
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.4261154
-C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.4261154
+C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.42612
+C-WEU-AUT,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.42612
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s1,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s2,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s3,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s51_std,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s52_low,0.51995052
+C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,s52_low,0.51995
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.0
@@ -1221,20 +1221,20 @@ C-WEU-AUT,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,inf,ns,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s1,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s2,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s3,0.8661046299999999
-C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s51_std,0.90778396
-C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s52_low,0.92220166
+C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s3,0.8661
+C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s51_std,0.90778
+C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,s52_low,0.9222
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr31_std,0.8661046299999999
-C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr32_low,0.8661046299999999
+C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr31_std,0.8661
+C-WEU-AUT,Zone_7A Very cold Humid,urb,mfh,sr32_low,0.8661
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s1,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s2,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s3,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s51_std,0.0
-C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s52_low,0.9020442
+C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,s52_low,0.90204
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.0
 C-WEU-AUT,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.0
@@ -1287,7 +1287,7 @@ C-WEU-BEL,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-WEU-BEL,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-WEU-BEL,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-WEU-BEL,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-WEU-BEL,Zone_5A Cool Humid,rur,inf,ns,2.0
+C-WEU-BEL,Zone_5A Cool Humid,rur,inf,ns,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -1310,7 +1310,7 @@ C-WEU-BEL,Zone_5A Cool Humid,rur,sfh,sr21_std,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,sfh,sr22_low,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-WEU-BEL,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
-C-WEU-BEL,Zone_5A Cool Humid,urb,inf,ns,2.0
+C-WEU-BEL,Zone_5A Cool Humid,urb,inf,ns,1.0
 C-WEU-BEL,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-WEU-BEL,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-BEL,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -1379,29 +1379,29 @@ C-WEU-CYP,Zone_3A Warm Humid,urb,sfh,sr21_std,1.0
 C-WEU-CYP,Zone_3A Warm Humid,urb,sfh,sr22_low,1.0
 C-WEU-CYP,Zone_3A Warm Humid,urb,sfh,sr31_std,1.0
 C-WEU-CYP,Zone_3A Warm Humid,urb,sfh,sr32_low,1.0
-C-WEU-DEU,Zone_4A Mixed Humid,rur,inf,ns,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s1,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s2,0.999432544
+C-WEU-DEU,Zone_4A Mixed Humid,rur,inf,ns,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s1,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s2,0.99943
 C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s3,1.0
 C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s51_std,1.0
 C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,s52_low,1.0
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.999432544
-C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.999432544
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.99943
+C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.99943
 C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr31_std,1.0
 C-WEU-DEU,Zone_4A Mixed Humid,rur,mfh,sr32_low,1.0
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s1,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s2,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s3,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s51_std,0.999432544
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s1,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s2,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s3,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s51_std,0.99943
 C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,s52_low,1.0
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.993600541
-C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.993600541
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.9936
+C-WEU-DEU,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.9936
 C-WEU-DEU,Zone_4A Mixed Humid,urb,inf,ns,1.0
 C-WEU-DEU,Zone_4A Mixed Humid,urb,mfh,s1,1.0
 C-WEU-DEU,Zone_4A Mixed Humid,urb,mfh,s2,1.0
@@ -1471,30 +1471,30 @@ C-WEU-DEU,Zone_5A Cool Humid,urb,sfh,sr21_std,1.0
 C-WEU-DEU,Zone_5A Cool Humid,urb,sfh,sr22_low,1.0
 C-WEU-DEU,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-WEU-DEU,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-WEU-DEU,Zone_6A Cold Humid,rur,inf,ns,1.9999999999999998
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s1,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s2,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s3,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s51_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s52_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr11_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr12_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr21_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr22_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr31_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr32_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s1,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s2,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s3,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s51_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s52_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr11_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr12_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr21_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr22_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr31_std,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr32_low,0.9999999999999999
-C-WEU-DEU,Zone_6A Cold Humid,urb,inf,ns,2.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,inf,ns,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s1,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s2,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s3,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s51_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr11_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr12_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr21_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr22_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr31_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,mfh,sr32_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s1,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s2,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s3,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s51_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,s52_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr11_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr12_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr21_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr22_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr31_std,1.0
+C-WEU-DEU,Zone_6A Cold Humid,rur,sfh,sr32_low,1.0
+C-WEU-DEU,Zone_6A Cold Humid,urb,inf,ns,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,mfh,s1,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,mfh,s3,1.0
@@ -1517,30 +1517,30 @@ C-WEU-DEU,Zone_6A Cold Humid,urb,sfh,sr21_std,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,sfh,sr22_low,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,sfh,sr31_std,1.0
 C-WEU-DEU,Zone_6A Cold Humid,urb,sfh,sr32_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,rur,inf,ns,0.930227756
-C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s1,0.999897596
+C-WEU-DNK,Zone_5A Cool Humid,rur,inf,ns,0.93023
+C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s1,0.9999
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s3,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr11_std,0.999897596
-C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr12_low,0.999897596
+C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr11_std,0.9999
+C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr12_low,0.9999
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s1,0.930227756
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s2,0.998860128
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s1,0.93023
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s2,0.99886
 C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s3,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr11_std,0.930227756
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr12_low,0.930227756
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr21_std,0.998860128
-C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr22_low,0.998860128
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr11_std,0.93023
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr12_low,0.93023
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr21_std,0.99886
+C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr22_low,0.99886
 C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,urb,inf,ns,0.986210406
+C-WEU-DNK,Zone_5A Cool Humid,urb,inf,ns,0.98621
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -1552,18 +1552,18 @@ C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s1,0.986210406
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s2,0.999787728
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s1,0.98621
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s2,0.99979
 C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s3,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr11_std,0.986210406
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr12_low,0.986210406
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr21_std,0.999787728
-C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr22_low,0.999787728
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr11_std,0.98621
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr12_low,0.98621
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr21_std,0.99979
+C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr22_low,0.99979
 C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-WEU-DNK,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-WEU-ESP,Zone_2B Hot Dry,rur,inf,ns,2.0
+C-WEU-ESP,Zone_2B Hot Dry,rur,inf,ns,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,mfh,s1,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,mfh,s2,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,mfh,s3,1.0
@@ -1586,7 +1586,7 @@ C-WEU-ESP,Zone_2B Hot Dry,rur,sfh,sr21_std,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,sfh,sr22_low,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,sfh,sr31_std,1.0
 C-WEU-ESP,Zone_2B Hot Dry,rur,sfh,sr32_low,1.0
-C-WEU-ESP,Zone_2B Hot Dry,urb,inf,ns,2.0
+C-WEU-ESP,Zone_2B Hot Dry,urb,inf,ns,1.0
 C-WEU-ESP,Zone_2B Hot Dry,urb,mfh,s1,1.0
 C-WEU-ESP,Zone_2B Hot Dry,urb,mfh,s2,1.0
 C-WEU-ESP,Zone_2B Hot Dry,urb,mfh,s3,1.0
@@ -1701,7 +1701,7 @@ C-WEU-ESP,Zone_3B Warm Dry,urb,sfh,sr21_std,1.0
 C-WEU-ESP,Zone_3B Warm Dry,urb,sfh,sr22_low,1.0
 C-WEU-ESP,Zone_3B Warm Dry,urb,sfh,sr31_std,1.0
 C-WEU-ESP,Zone_3B Warm Dry,urb,sfh,sr32_low,1.0
-C-WEU-ESP,Zone_3C Warm Marine,rur,inf,ns,0.998297254
+C-WEU-ESP,Zone_3C Warm Marine,rur,inf,ns,0.9983
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,s1,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,s2,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,s3,1.0
@@ -1713,13 +1713,13 @@ C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,sr21_std,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,sr22_low,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,sr31_std,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,mfh,sr32_low,1.0
-C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s1,0.998297254
+C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s1,0.9983
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s2,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s3,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s51_std,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,s52_low,1.0
-C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr11_std,0.998297254
-C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr12_low,0.998297254
+C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr11_std,0.9983
+C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr12_low,0.9983
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr21_std,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr22_low,1.0
 C-WEU-ESP,Zone_3C Warm Marine,rur,sfh,sr31_std,1.0
@@ -1839,122 +1839,122 @@ C-WEU-ESP,Zone_4C Mixed Marine,urb,sfh,sr21_std,1.0
 C-WEU-ESP,Zone_4C Mixed Marine,urb,sfh,sr22_low,1.0
 C-WEU-ESP,Zone_4C Mixed Marine,urb,sfh,sr31_std,1.0
 C-WEU-ESP,Zone_4C Mixed Marine,urb,sfh,sr32_low,1.0
-C-WEU-FIN,Zone_6A Cold Humid,rur,inf,ns,0.066303307
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s1,0.486370286
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s2,0.954050301
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s3,0.999806934
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s51_std,0.999948021
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s52_low,0.999948021
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr11_std,0.486370286
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr12_low,0.486370286
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr21_std,0.954050301
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr22_low,0.954050301
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr31_std,0.999806934
-C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr32_low,0.999806934
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s1,0.066303307
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s2,0.1003943
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s3,0.906392711
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s51_std,0.99969555
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s52_low,0.999948021
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr11_std,0.066303307
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr12_low,0.066303307
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr21_std,0.1003943
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr22_low,0.1003943
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr31_std,0.906392711
-C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr32_low,0.906392711
-C-WEU-FIN,Zone_6A Cold Humid,urb,inf,ns,0.010560504
-C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s1,0.59421684
+C-WEU-FIN,Zone_6A Cold Humid,rur,inf,ns,0.13261
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s1,0.48637
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s2,0.95405
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s3,0.99981
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s51_std,0.99995
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,s52_low,0.99995
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr11_std,0.48637
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr12_low,0.48637
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr21_std,0.95405
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr22_low,0.95405
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr31_std,0.99981
+C-WEU-FIN,Zone_6A Cold Humid,rur,mfh,sr32_low,0.99981
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s1,0.0663
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s2,0.10039
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s3,0.90639
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s51_std,0.9997
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,s52_low,0.99995
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr11_std,0.0663
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr12_low,0.0663
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr21_std,0.10039
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr22_low,0.10039
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr31_std,0.90639
+C-WEU-FIN,Zone_6A Cold Humid,rur,sfh,sr32_low,0.90639
+C-WEU-FIN,Zone_6A Cold Humid,urb,inf,ns,0.02112
+C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s1,0.59422
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s3,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s51_std,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,s52_low,1.0
-C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr11_std,0.59421684
-C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr12_low,0.59421684
+C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr11_std,0.59422
+C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr12_low,0.59422
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr21_std,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr22_low,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s1,0.010560504
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s2,0.069068853
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s3,0.971482678
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s1,0.01056
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s2,0.06907
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s3,0.97148
 C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s51_std,1.0
 C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,s52_low,1.0
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr11_std,0.010560504
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr12_low,0.010560504
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr21_std,0.069068853
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr22_low,0.069068853
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr31_std,0.971482678
-C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr32_low,0.971482678
-C-WEU-FIN,Zone_7A Very cold Humid,rur,inf,ns,0.106458933
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s1,0.51825185
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s2,0.713876233
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s3,0.938507298
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s51_std,0.971576121
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s52_low,0.998691476
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825185
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825185
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.713876233
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.713876233
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.938507298
-C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.938507298
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s1,0.106458933
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s2,0.317229803
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s3,0.62206515
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s51_std,0.763919348
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s52_low,0.946404496
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.106458933
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.106458933
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.317229803
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.317229803
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62206515
-C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62206515
-C-WEU-FIN,Zone_7A Very cold Humid,urb,inf,ns,0.107831635
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s1,0.585487794
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s2,0.702247701
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr11_std,0.01056
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr12_low,0.01056
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr21_std,0.06907
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr22_low,0.06907
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr31_std,0.97148
+C-WEU-FIN,Zone_6A Cold Humid,urb,sfh,sr32_low,0.97148
+C-WEU-FIN,Zone_7A Very cold Humid,rur,inf,ns,0.21292
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s1,0.51825
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s2,0.71388
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s3,0.93851
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97158
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71388
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71388
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.93851
+C-WEU-FIN,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.93851
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s1,0.10646
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s2,0.31723
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s3,0.62207
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76392
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10646
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10646
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.31723
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.31723
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62207
+C-WEU-FIN,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62207
+C-WEU-FIN,Zone_7A Very cold Humid,urb,inf,ns,0.21566
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s1,0.58549
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s2,0.70225
 C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s3,1.0
 C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s51_std,1.0
 C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,s52_low,1.0
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.585487794
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.585487794
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.702247701
-C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.702247701
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58549
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58549
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.70225
+C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.70225
 C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-FIN,Zone_7A Very cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s1,0.107831635
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s2,0.365098007
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s3,0.596138457
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s51_std,0.720868533
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s1,0.10783
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s2,0.3651
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s3,0.59614
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72087
 C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,s52_low,1.0
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.107831635
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.107831635
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.365098007
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.365098007
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.596138457
-C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.596138457
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,inf,ns,1.99878444
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s1,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s2,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s3,0.99939222
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.3651
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.3651
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59614
+C-WEU-FIN,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59614
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,inf,ns,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s1,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s2,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s3,0.99939
 C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr11_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr12_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr21_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr22_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr31_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr32_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s1,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s2,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s3,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s51_std,0.99939222
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr11_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr12_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr21_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr22_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr31_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,mfh,sr32_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s1,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s2,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s3,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s51_std,0.99939
 C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr11_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr12_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr21_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr22_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr31_std,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr32_low,0.99939222
-C-WEU-FRA,Zone_0A Extremely hot Humid,urb,inf,ns,2.0
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr11_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr12_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr21_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr22_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr31_std,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,rur,sfh,sr32_low,0.99939
+C-WEU-FRA,Zone_0A Extremely hot Humid,urb,inf,ns,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,mfh,s1,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,mfh,s2,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,mfh,s3,1.0
@@ -1977,30 +1977,30 @@ C-WEU-FRA,Zone_0A Extremely hot Humid,urb,sfh,sr21_std,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,sfh,sr22_low,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,sfh,sr31_std,1.0
 C-WEU-FRA,Zone_0A Extremely hot Humid,urb,sfh,sr32_low,1.0
-C-WEU-FRA,Zone_1A Very hot Humid,rur,inf,ns,1.9987844399999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s1,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s2,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s3,0.9993922199999999
+C-WEU-FRA,Zone_1A Very hot Humid,rur,inf,ns,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s1,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s2,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s3,0.99939
 C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr11_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr12_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr21_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr22_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr31_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr32_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s1,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s2,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s3,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s51_std,0.9993922199999999
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr11_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr12_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr21_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr22_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr31_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,mfh,sr32_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s1,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s2,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s3,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s51_std,0.99939
 C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr11_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr12_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr21_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr22_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr31_std,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr32_low,0.9993922199999999
-C-WEU-FRA,Zone_1A Very hot Humid,urb,inf,ns,2.0
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr11_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr12_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr21_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr22_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr31_std,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,rur,sfh,sr32_low,0.99939
+C-WEU-FRA,Zone_1A Very hot Humid,urb,inf,ns,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,mfh,s1,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,mfh,s2,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,mfh,s3,1.0
@@ -2023,30 +2023,30 @@ C-WEU-FRA,Zone_1A Very hot Humid,urb,sfh,sr21_std,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,sfh,sr22_low,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,sfh,sr31_std,1.0
 C-WEU-FRA,Zone_1A Very hot Humid,urb,sfh,sr32_low,1.0
-C-WEU-FRA,Zone_2A Hot Humid,rur,inf,ns,1.99878444
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s1,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s2,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s3,0.99939222
+C-WEU-FRA,Zone_2A Hot Humid,rur,inf,ns,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s1,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s2,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s3,0.99939
 C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr11_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr12_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr21_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr22_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr31_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr32_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s1,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s2,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s3,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s51_std,0.99939222
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr11_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr12_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr21_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr22_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr31_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,mfh,sr32_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s1,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s2,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s3,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s51_std,0.99939
 C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr11_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr12_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr21_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr22_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr31_std,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr32_low,0.99939222
-C-WEU-FRA,Zone_2A Hot Humid,urb,inf,ns,2.0
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr11_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr12_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr21_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr22_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr31_std,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,rur,sfh,sr32_low,0.99939
+C-WEU-FRA,Zone_2A Hot Humid,urb,inf,ns,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,mfh,s1,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,mfh,s2,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,mfh,s3,1.0
@@ -2069,29 +2069,29 @@ C-WEU-FRA,Zone_2A Hot Humid,urb,sfh,sr21_std,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,sfh,sr22_low,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,sfh,sr31_std,1.0
 C-WEU-FRA,Zone_2A Hot Humid,urb,sfh,sr32_low,1.0
-C-WEU-FRA,Zone_3A Warm Humid,rur,inf,ns,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s1,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s2,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s3,0.999392219
+C-WEU-FRA,Zone_3A Warm Humid,rur,inf,ns,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s1,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s2,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s3,0.99939
 C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr11_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr12_low,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr21_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr22_low,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr31_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr32_low,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s1,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s2,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s3,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s51_std,0.999392219
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr11_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr12_low,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr21_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr22_low,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr31_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,mfh,sr32_low,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s1,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s2,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s3,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s51_std,0.99939
 C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr11_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr12_low,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr21_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr22_low,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr31_std,0.999392219
-C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr32_low,0.999392219
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr11_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr12_low,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr21_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr22_low,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr31_std,0.99939
+C-WEU-FRA,Zone_3A Warm Humid,rur,sfh,sr32_low,0.99939
 C-WEU-FRA,Zone_3A Warm Humid,urb,inf,ns,1.0
 C-WEU-FRA,Zone_3A Warm Humid,urb,mfh,s1,1.0
 C-WEU-FRA,Zone_3A Warm Humid,urb,mfh,s2,1.0
@@ -2115,236 +2115,236 @@ C-WEU-FRA,Zone_3A Warm Humid,urb,sfh,sr21_std,1.0
 C-WEU-FRA,Zone_3A Warm Humid,urb,sfh,sr22_low,1.0
 C-WEU-FRA,Zone_3A Warm Humid,urb,sfh,sr31_std,1.0
 C-WEU-FRA,Zone_3A Warm Humid,urb,sfh,sr32_low,1.0
-C-WEU-FRA,Zone_3C Warm Marine,rur,inf,ns,1.74458394
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s1,0.94828863
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s2,0.95199352
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s3,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s51_std,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s52_low,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr11_std,0.94828863
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr12_low,0.94828863
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr21_std,0.95199352
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr22_low,0.95199352
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr31_std,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr32_low,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s1,0.87229197
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s2,0.90112246
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s3,0.95036196
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s51_std,0.96525347
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s52_low,0.98421811
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr11_std,0.87229197
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr12_low,0.87229197
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr21_std,0.90112246
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr22_low,0.90112246
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr31_std,0.95036196
-C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr32_low,0.95036196
-C-WEU-FRA,Zone_3C Warm Marine,urb,inf,ns,1.88779148
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s1,0.97800726
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s2,0.98397938
+C-WEU-FRA,Zone_3C Warm Marine,rur,inf,ns,0.87229
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s1,0.94829
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s2,0.95199
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s3,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s51_std,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,s52_low,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr11_std,0.94829
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr12_low,0.94829
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr21_std,0.95199
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr22_low,0.95199
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr31_std,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,mfh,sr32_low,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s1,0.87229
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s2,0.90112
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s3,0.95036
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s51_std,0.96525
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,s52_low,0.98422
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr11_std,0.87229
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr12_low,0.87229
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr21_std,0.90112
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr22_low,0.90112
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr31_std,0.95036
+C-WEU-FRA,Zone_3C Warm Marine,rur,sfh,sr32_low,0.95036
+C-WEU-FRA,Zone_3C Warm Marine,urb,inf,ns,0.9439
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s1,0.97801
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s2,0.98398
 C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s3,1.0
 C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s51_std,1.0
 C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,s52_low,1.0
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr11_std,0.97800726
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr12_low,0.97800726
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr21_std,0.98397938
-C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr22_low,0.98397938
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr11_std,0.97801
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr12_low,0.97801
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr21_std,0.98398
+C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr22_low,0.98398
 C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_3C Warm Marine,urb,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s1,0.94389574
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s2,0.95654011
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s3,0.98061249
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s51_std,0.98994807
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s1,0.9439
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s2,0.95654
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s3,0.98061
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s51_std,0.98995
 C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,s52_low,1.0
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr11_std,0.94389574
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr12_low,0.94389574
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr21_std,0.95654011
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr22_low,0.95654011
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr31_std,0.98061249
-C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr32_low,0.98061249
-C-WEU-FRA,Zone_4A Mixed Humid,rur,inf,ns,0.872291972
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s1,0.948288631
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s2,0.951993516
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s3,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s51_std,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s52_low,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.948288631
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.948288631
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.951993516
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.951993516
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr31_std,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr32_low,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s1,0.872291972
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s2,0.90112246
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s3,0.950361962
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s51_std,0.965253473
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s52_low,0.98421811
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.872291972
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.872291972
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.90112246
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.90112246
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.950361962
-C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.950361962
-C-WEU-FRA,Zone_4A Mixed Humid,urb,inf,ns,0.943895736
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s1,0.978007257
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s2,0.983979381
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr11_std,0.9439
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr12_low,0.9439
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr21_std,0.95654
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr22_low,0.95654
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr31_std,0.98061
+C-WEU-FRA,Zone_3C Warm Marine,urb,sfh,sr32_low,0.98061
+C-WEU-FRA,Zone_4A Mixed Humid,rur,inf,ns,0.87229
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s1,0.94829
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s2,0.95199
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s3,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s51_std,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,s52_low,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.94829
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.94829
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.95199
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.95199
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr31_std,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,mfh,sr32_low,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s1,0.87229
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s2,0.90112
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s3,0.95036
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s51_std,0.96525
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,s52_low,0.98422
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.87229
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.87229
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.90112
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.90112
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.95036
+C-WEU-FRA,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.95036
+C-WEU-FRA,Zone_4A Mixed Humid,urb,inf,ns,0.9439
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s1,0.97801
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s2,0.98398
 C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s3,1.0
 C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s51_std,1.0
 C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,s52_low,1.0
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr11_std,0.978007257
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr12_low,0.978007257
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr21_std,0.983979381
-C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr22_low,0.983979381
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr11_std,0.97801
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr12_low,0.97801
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr21_std,0.98398
+C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr22_low,0.98398
 C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_4A Mixed Humid,urb,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s1,0.943895736
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s2,0.956540106
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s3,0.980612494
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s51_std,0.989948068
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s1,0.9439
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s2,0.95654
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s3,0.98061
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s51_std,0.98995
 C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,s52_low,1.0
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr11_std,0.943895736
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr12_low,0.943895736
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr21_std,0.956540106
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr22_low,0.956540106
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr31_std,0.980612494
-C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr32_low,0.980612494
-C-WEU-FRA,Zone_4C Mixed Marine,rur,inf,ns,1.74458394
-C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s1,0.97071901
-C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s2,0.95199352
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr11_std,0.9439
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr12_low,0.9439
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr21_std,0.95654
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr22_low,0.95654
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr31_std,0.98061
+C-WEU-FRA,Zone_4A Mixed Humid,urb,sfh,sr32_low,0.98061
+C-WEU-FRA,Zone_4C Mixed Marine,rur,inf,ns,0.87229
+C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s1,0.97072
+C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s2,0.95199
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s3,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr11_std,0.97071901
-C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.97071901
-C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr21_std,0.95199352
+C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr11_std,0.97072
+C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.97072
+C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr21_std,0.95199
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr22_low,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,rur,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s1,0.87229197
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s2,0.91039257
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s3,0.95036196
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s51_std,0.96525347
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s1,0.87229
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s2,0.91039
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s3,0.95036
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s51_std,0.96525
 C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.87229197
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.87229197
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.90112246
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.91039257
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.95036196
-C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.97071901
-C-WEU-FRA,Zone_4C Mixed Marine,urb,inf,ns,1.91772644
-C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s1,0.99583059
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.87229
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.87229
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.90112
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.91039
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.95036
+C-WEU-FRA,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.97072
+C-WEU-FRA,Zone_4C Mixed Marine,urb,inf,ns,0.95886
+C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s1,0.99583
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s2,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s3,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s51_std,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,s52_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr11_std,0.97800726
-C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr12_low,0.99583059
+C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr11_std,0.97801
+C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr12_low,0.99583
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr21_std,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr22_low,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_4C Mixed Marine,urb,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s1,0.95886322
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s2,0.95654011
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s3,0.99583059
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s51_std,0.98994807
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s1,0.95886
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s2,0.95654
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s3,0.99583
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s51_std,0.98995
 C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,s52_low,1.0
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr11_std,0.95886322
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr12_low,0.95886322
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr21_std,0.95654011
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr22_low,0.95886322
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr31_std,0.99583059
-C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr32_low,0.98061249
-C-WEU-FRA,Zone_5A Cool Humid,rur,inf,ns,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s1,0.970719014
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr11_std,0.95886
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr12_low,0.95886
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr21_std,0.95654
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr22_low,0.95886
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr31_std,0.99583
+C-WEU-FRA,Zone_4C Mixed Marine,urb,sfh,sr32_low,0.98061
+C-WEU-FRA,Zone_5A Cool Humid,rur,inf,ns,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s1,0.97072
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s3,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr11_std,0.970719014
-C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr12_low,0.970719014
+C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr11_std,0.97072
+C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr12_low,0.97072
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s1,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s2,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s3,0.970719014
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s1,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s2,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s3,0.97072
 C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr11_std,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr12_low,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr21_std,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr22_low,0.910392567
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr31_std,0.970719014
-C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr32_low,0.970719014
-C-WEU-FRA,Zone_5A Cool Humid,urb,inf,ns,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s1,0.99583059
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr11_std,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr12_low,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr21_std,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr22_low,0.91039
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr31_std,0.97072
+C-WEU-FRA,Zone_5A Cool Humid,rur,sfh,sr32_low,0.97072
+C-WEU-FRA,Zone_5A Cool Humid,urb,inf,ns,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s1,0.99583
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s3,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s51_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,s52_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr11_std,0.99583059
-C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr12_low,0.99583059
+C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr11_std,0.99583
+C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr12_low,0.99583
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s1,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s2,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s3,0.99583059
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s1,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s2,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s3,0.99583
 C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr11_std,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr12_low,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr21_std,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr22_low,0.958863215
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr31_std,0.99583059
-C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr32_low,0.99583059
-C-WEU-FRA,Zone_7A Very cold Humid,rur,inf,ns,0.21291786
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s1,0.51825185
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s2,0.71387623
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s3,0.9385073
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97157612
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869148
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825185
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825185
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71387623
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71387623
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.9385073
-C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.9385073
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s1,0.10645893
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s2,0.3172298
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s3,0.62206515
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76391935
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464045
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10645893
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10645893
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.3172298
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.3172298
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62206515
-C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62206515
-C-WEU-FRA,Zone_7A Very cold Humid,urb,inf,ns,0.21566328
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s1,0.58548779
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s2,0.7022477
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr11_std,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr12_low,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr21_std,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr22_low,0.95886
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr31_std,0.99583
+C-WEU-FRA,Zone_5A Cool Humid,urb,sfh,sr32_low,0.99583
+C-WEU-FRA,Zone_7A Very cold Humid,rur,inf,ns,0.21292
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s1,0.51825
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s2,0.71388
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s3,0.93851
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97158
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71388
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71388
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.93851
+C-WEU-FRA,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.93851
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s1,0.10646
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s2,0.31723
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s3,0.62207
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76392
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10646
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10646
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.31723
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.31723
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62207
+C-WEU-FRA,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62207
+C-WEU-FRA,Zone_7A Very cold Humid,urb,inf,ns,0.21566
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s1,0.58549
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s2,0.70225
 C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s3,1.0
 C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s51_std,1.0
 C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,s52_low,1.0
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58548779
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58548779
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.7022477
-C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.7022477
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58549
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58549
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.70225
+C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.70225
 C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-FRA,Zone_7A Very cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s1,0.10783164
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s2,0.36509801
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s3,0.59613846
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72086853
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s1,0.10783
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s2,0.3651
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s3,0.59614
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72087
 C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,s52_low,1.0
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783164
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783164
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.36509801
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.36509801
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59613846
-C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59613846
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.3651
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.3651
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59614
+C-WEU-FRA,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59614
 C-WEU-GRC,Zone_3A Warm Humid,rur,inf,ns,1.0
 C-WEU-GRC,Zone_3A Warm Humid,rur,mfh,s1,1.0
 C-WEU-GRC,Zone_3A Warm Humid,rur,mfh,s2,1.0
@@ -2437,7 +2437,7 @@ C-WEU-GRC,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-WEU-GRC,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-WEU-GRC,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-WEU-GRC,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-WEU-GRC,Zone_4C Mixed Marine,rur,inf,ns,2.0
+C-WEU-GRC,Zone_4C Mixed Marine,rur,inf,ns,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,mfh,s1,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,mfh,s2,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,mfh,s3,1.0
@@ -2460,7 +2460,7 @@ C-WEU-GRC,Zone_4C Mixed Marine,rur,sfh,sr21_std,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,sfh,sr22_low,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,sfh,sr31_std,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,rur,sfh,sr32_low,1.0
-C-WEU-GRC,Zone_4C Mixed Marine,urb,inf,ns,2.0
+C-WEU-GRC,Zone_4C Mixed Marine,urb,inf,ns,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,mfh,s1,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,mfh,s2,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,mfh,s3,1.0
@@ -2483,7 +2483,7 @@ C-WEU-GRC,Zone_4C Mixed Marine,urb,sfh,sr21_std,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,sfh,sr22_low,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,sfh,sr31_std,1.0
 C-WEU-GRC,Zone_4C Mixed Marine,urb,sfh,sr32_low,1.0
-C-WEU-GRC,Zone_5A Cool Humid,rur,inf,ns,2.0
+C-WEU-GRC,Zone_5A Cool Humid,rur,inf,ns,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -2506,7 +2506,7 @@ C-WEU-GRC,Zone_5A Cool Humid,rur,sfh,sr21_std,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,sfh,sr22_low,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-WEU-GRC,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
-C-WEU-GRC,Zone_5A Cool Humid,urb,inf,ns,2.0
+C-WEU-GRC,Zone_5A Cool Humid,urb,inf,ns,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -2529,58 +2529,58 @@ C-WEU-GRC,Zone_5A Cool Humid,urb,sfh,sr21_std,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,sfh,sr22_low,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-WEU-GRC,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-WEU-GRC,Zone_5C Cool Marine,rur,inf,ns,0.13260662
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s1,0.94157775
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s2,0.41685565
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s3,0.83826782
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s51_std,0.9998361
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s52_low,0.9998361
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr11_std,0.48637029
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr12_low,0.61553264
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr21_std,0.41685565
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr22_low,0.9540503
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr31_std,0.4261154
-C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr32_low,0.99987076
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s1,0.58766864
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s2,0.56198682
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s3,0.66493439
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s51_std,0.99966779
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s52_low,0.60042917
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr11_std,0.73049895
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr12_low,0.64674739
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr21_std,0.49479422
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr22_low,0.96421048
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr31_std,0.19933329
-C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr32_low,0.98613305
-C-WEU-GRC,Zone_5C Cool Marine,urb,inf,ns,0.1102299
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s1,0.73193866
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s2,0.73193866
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s3,0.79229895
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s51_std,0.90778396
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s52_low,0.04014533
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr11_std,0.72570317
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr12_low,0.72570317
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr21_std,0.75934145
-C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr22_low,0.75934145
+C-WEU-GRC,Zone_5C Cool Marine,rur,inf,ns,0.13261
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s1,0.94158
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s2,0.41686
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s3,0.83827
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s51_std,0.99984
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,s52_low,0.99984
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr11_std,0.48637
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr12_low,0.61553
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr21_std,0.41686
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr22_low,0.95405
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr31_std,0.42612
+C-WEU-GRC,Zone_5C Cool Marine,rur,mfh,sr32_low,0.99987
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s1,0.58767
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s2,0.56199
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s3,0.66493
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s51_std,0.99967
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,s52_low,0.60043
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr11_std,0.7305
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr12_low,0.64675
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr21_std,0.49479
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr22_low,0.96421
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr31_std,0.19933
+C-WEU-GRC,Zone_5C Cool Marine,rur,sfh,sr32_low,0.98613
+C-WEU-GRC,Zone_5C Cool Marine,urb,inf,ns,0.11023
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s1,0.73194
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s2,0.73194
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s3,0.7923
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s51_std,0.90778
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,s52_low,0.04015
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr11_std,0.7257
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr12_low,0.7257
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr21_std,0.75934
+C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr22_low,0.75934
 C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr31_std,1.0
 C-WEU-GRC,Zone_5C Cool Marine,urb,mfh,sr32_low,1.0
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s1,0.05511495
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s2,0.43373615
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s3,0.99701051
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s51_std,0.97107603
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s52_low,0.91979967
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr11_std,0.05511495
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr12_low,0.95886322
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr21_std,0.43373615
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr22_low,0.95886322
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr31_std,0.96458142
-C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr32_low,0.63662135
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s1,0.05511
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s2,0.43374
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s3,0.99701
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s51_std,0.97108
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,s52_low,0.9198
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr11_std,0.05511
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr12_low,0.95886
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr21_std,0.43374
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr22_low,0.95886
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr31_std,0.96458
+C-WEU-GRC,Zone_5C Cool Marine,urb,sfh,sr32_low,0.63662
 C-WEU-IRL,Zone_4A Mixed Humid,rur,inf,ns,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s1,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s2,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s3,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s51_std,0.0
-C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s52_low,0.13976299
+C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,s52_low,0.13976
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.0
@@ -2603,7 +2603,7 @@ C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s1,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s2,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s3,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s51_std,0.0
-C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s52_low,0.04014533
+C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,s52_low,0.04015
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,sr11_std,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,sr12_low,0.0
 C-WEU-IRL,Zone_4A Mixed Humid,urb,mfh,sr21_std,0.0
@@ -2626,7 +2626,7 @@ C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s1,0.0
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s2,0.0
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s3,0.0
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s51_std,0.0
-C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s52_low,0.139762994
+C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,s52_low,0.13976
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,sr11_std,0.0
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,sr12_low,0.0
 C-WEU-IRL,Zone_5A Cool Humid,rur,mfh,sr21_std,0.0
@@ -2649,7 +2649,7 @@ C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s1,0.0
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s2,0.0
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s3,0.0
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s51_std,0.0
-C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s52_low,0.040145328
+C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,s52_low,0.04015
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,sr11_std,0.0
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,sr12_low,0.0
 C-WEU-IRL,Zone_5A Cool Humid,urb,mfh,sr21_std,0.0
@@ -2805,191 +2805,191 @@ C-WEU-ITA,Zone_4C Mixed Marine,urb,sfh,sr21_std,1.0
 C-WEU-ITA,Zone_4C Mixed Marine,urb,sfh,sr22_low,1.0
 C-WEU-ITA,Zone_4C Mixed Marine,urb,sfh,sr31_std,1.0
 C-WEU-ITA,Zone_4C Mixed Marine,urb,sfh,sr32_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,rur,inf,ns,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s1,0.821249388
+C-WEU-ITA,Zone_5A Cool Humid,rur,inf,ns,0.98959
+C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s1,0.82125
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s3,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr11_std,0.821249388
-C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr12_low,0.821249388
+C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr11_std,0.82125
+C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr12_low,0.82125
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s1,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s2,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s3,0.89773494
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s1,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s2,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s3,0.89773
 C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s51_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr11_std,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr12_low,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr21_std,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr22_low,0.494794215
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr31_std,0.89773494
-C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr32_low,0.89773494
-C-WEU-ITA,Zone_5A Cool Humid,urb,inf,ns,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s1,0.898452091
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr11_std,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr12_low,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr21_std,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr22_low,0.49479
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr31_std,0.89773
+C-WEU-ITA,Zone_5A Cool Humid,rur,sfh,sr32_low,0.89773
+C-WEU-ITA,Zone_5A Cool Humid,urb,inf,ns,0.52809
+C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s1,0.89845
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s3,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s51_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,s52_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr11_std,0.898452091
-C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr12_low,0.898452091
+C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr11_std,0.89845
+C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr12_low,0.89845
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s1,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s2,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s3,0.917117896
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s1,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s2,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s3,0.91712
 C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr11_std,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr12_low,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr21_std,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr22_low,0.264045512
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr31_std,0.917117896
-C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr32_low,0.917117896
-C-WEU-ITA,Zone_5C Cool Marine,rur,inf,ns,0.9895884400000001
-C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s1,0.82124939
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr11_std,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr12_low,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr21_std,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr22_low,0.26405
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr31_std,0.91712
+C-WEU-ITA,Zone_5A Cool Humid,urb,sfh,sr32_low,0.91712
+C-WEU-ITA,Zone_5C Cool Marine,rur,inf,ns,0.98959
+C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s1,0.82125
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s2,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s3,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s51_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,s52_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr11_std,0.82124939
-C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr12_low,0.82124939
+C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr11_std,0.82125
+C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr12_low,0.82125
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s1,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s2,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s3,0.8977349400000001
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s1,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s2,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s3,0.89773
 C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s51_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,s52_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr11_std,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr12_low,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr21_std,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr22_low,0.49479422000000006
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr31_std,0.8977349400000001
-C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr32_low,0.8977349400000001
-C-WEU-ITA,Zone_5C Cool Marine,urb,inf,ns,0.52809102
-C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s1,0.8984520899999999
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr11_std,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr12_low,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr21_std,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr22_low,0.49479
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr31_std,0.89773
+C-WEU-ITA,Zone_5C Cool Marine,rur,sfh,sr32_low,0.89773
+C-WEU-ITA,Zone_5C Cool Marine,urb,inf,ns,0.52809
+C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s1,0.89845
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s2,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s3,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s51_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,s52_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr11_std,0.8984520899999999
-C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr12_low,0.8984520899999999
+C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr11_std,0.89845
+C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr12_low,0.89845
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s1,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s2,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s3,0.9171179
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s1,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s2,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s3,0.91712
 C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s51_std,1.0
 C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,s52_low,1.0
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr11_std,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr12_low,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr21_std,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr22_low,0.26404551
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr31_std,0.9171179
-C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr32_low,0.9171179
-C-WEU-ITA,Zone_6A Cold Humid,rur,inf,ns,0.98958844
-C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s1,0.82124939
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr11_std,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr12_low,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr21_std,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr22_low,0.26405
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr31_std,0.91712
+C-WEU-ITA,Zone_5C Cool Marine,urb,sfh,sr32_low,0.91712
+C-WEU-ITA,Zone_6A Cold Humid,rur,inf,ns,0.98959
+C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s1,0.82125
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s2,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s3,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s51_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr11_std,0.82124939
-C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr12_low,0.82124939
+C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr11_std,0.82125
+C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr12_low,0.82125
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s1,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s2,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s3,0.89773494
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s1,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s2,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s3,0.89773
 C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s51_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,s52_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr11_std,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr12_low,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr21_std,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr22_low,0.49479422
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr31_std,0.89773494
-C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr32_low,0.89773494
-C-WEU-ITA,Zone_6A Cold Humid,urb,inf,ns,0.52809102
-C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s1,0.89845209
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr11_std,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr12_low,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr21_std,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr22_low,0.49479
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr31_std,0.89773
+C-WEU-ITA,Zone_6A Cold Humid,rur,sfh,sr32_low,0.89773
+C-WEU-ITA,Zone_6A Cold Humid,urb,inf,ns,0.52809
+C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s1,0.89845
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s3,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s51_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,s52_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr11_std,0.89845209
-C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr12_low,0.89845209
+C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr11_std,0.89845
+C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr12_low,0.89845
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr21_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr22_low,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s1,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s2,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s3,0.9171179
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s1,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s2,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s3,0.91712
 C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s51_std,1.0
 C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,s52_low,1.0
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr11_std,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr12_low,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr21_std,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr22_low,0.26404551
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr31_std,0.9171179
-C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr32_low,0.9171179
-C-WEU-ITA,Zone_7A Very cold Humid,rur,inf,ns,0.21291786
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s1,0.51825185
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s2,0.71387623
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s3,0.9385072999999999
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97157612
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869148
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825185
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825185
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71387623
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71387623
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.9385072999999999
-C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.9385072999999999
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s1,0.10645893
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s2,0.3172298
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s3,0.62206515
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76391935
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464045
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10645893
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10645893
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.3172298
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.3172298
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62206515
-C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62206515
-C-WEU-ITA,Zone_7A Very cold Humid,urb,inf,ns,0.21566327999999998
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s1,0.58548779
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s2,0.7022477
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr11_std,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr12_low,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr21_std,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr22_low,0.26405
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr31_std,0.91712
+C-WEU-ITA,Zone_6A Cold Humid,urb,sfh,sr32_low,0.91712
+C-WEU-ITA,Zone_7A Very cold Humid,rur,inf,ns,0.21292
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s1,0.51825
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s2,0.71388
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s3,0.93851
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s51_std,0.97158
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,s52_low,0.99869
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.51825
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.51825
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr21_std,0.71388
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr22_low,0.71388
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr31_std,0.93851
+C-WEU-ITA,Zone_7A Very cold Humid,rur,mfh,sr32_low,0.93851
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s1,0.10646
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s2,0.31723
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s3,0.62207
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s51_std,0.76392
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,s52_low,0.9464
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.10646
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.10646
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.31723
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.31723
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.62207
+C-WEU-ITA,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.62207
+C-WEU-ITA,Zone_7A Very cold Humid,urb,inf,ns,0.21566
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s1,0.58549
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s2,0.70225
 C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s3,1.0
 C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s51_std,1.0
 C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,s52_low,1.0
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58548779
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58548779
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.7022477
-C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.7022477
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.58549
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.58549
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr21_std,0.70225
+C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr22_low,0.70225
 C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-ITA,Zone_7A Very cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s1,0.10783163999999999
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s2,0.36509801
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s3,0.59613846
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72086853
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s1,0.10783
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s2,0.3651
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s3,0.59614
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s51_std,0.72087
 C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,s52_low,1.0
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783163999999999
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783163999999999
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.36509801
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.36509801
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59613846
-C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59613846
-C-WEU-LUX,Zone_5A Cool Humid,rur,inf,ns,1.0
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.10783
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.10783
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.3651
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.3651
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.59614
+C-WEU-ITA,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.59614
+C-WEU-LUX,Zone_5A Cool Humid,rur,inf,ns,0.99237
 C-WEU-LUX,Zone_5A Cool Humid,rur,mfh,s1,1.0
 C-WEU-LUX,Zone_5A Cool Humid,rur,mfh,s2,1.0
 C-WEU-LUX,Zone_5A Cool Humid,rur,mfh,s3,1.0
@@ -3012,7 +3012,7 @@ C-WEU-LUX,Zone_5A Cool Humid,rur,sfh,sr21_std,1.0
 C-WEU-LUX,Zone_5A Cool Humid,rur,sfh,sr22_low,1.0
 C-WEU-LUX,Zone_5A Cool Humid,rur,sfh,sr31_std,1.0
 C-WEU-LUX,Zone_5A Cool Humid,rur,sfh,sr32_low,1.0
-C-WEU-LUX,Zone_5A Cool Humid,urb,inf,ns,1.0
+C-WEU-LUX,Zone_5A Cool Humid,urb,inf,ns,0.98714
 C-WEU-LUX,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-WEU-LUX,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-LUX,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -3081,29 +3081,29 @@ C-WEU-MLT,Zone_3A Warm Humid,urb,sfh,sr21_std,1.0
 C-WEU-MLT,Zone_3A Warm Humid,urb,sfh,sr22_low,1.0
 C-WEU-MLT,Zone_3A Warm Humid,urb,sfh,sr31_std,1.0
 C-WEU-MLT,Zone_3A Warm Humid,urb,sfh,sr32_low,1.0
-C-WEU-NLD,Zone_4A Mixed Humid,rur,inf,ns,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s1,0.997217399
+C-WEU-NLD,Zone_4A Mixed Humid,rur,inf,ns,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s1,0.99722
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s2,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s3,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s51_std,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,s52_low,1.0
-C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.997217399
+C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.99722
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr21_std,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr22_low,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr31_std,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,mfh,sr32_low,1.0
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s1,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s2,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s3,0.997217399
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s1,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s2,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s3,0.99722
 C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s51_std,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,s52_low,1.0
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.997217399
-C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.997217399
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.99722
+C-WEU-NLD,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.99722
 C-WEU-NLD,Zone_4A Mixed Humid,urb,inf,ns,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,urb,mfh,s1,1.0
 C-WEU-NLD,Zone_4A Mixed Humid,urb,mfh,s2,1.0
@@ -3219,29 +3219,29 @@ C-WEU-PRT,Zone_3A Warm Humid,urb,sfh,sr21_std,1.0
 C-WEU-PRT,Zone_3A Warm Humid,urb,sfh,sr22_low,1.0
 C-WEU-PRT,Zone_3A Warm Humid,urb,sfh,sr31_std,1.0
 C-WEU-PRT,Zone_3A Warm Humid,urb,sfh,sr32_low,1.0
-C-WEU-PRT,Zone_3C Warm Marine,rur,inf,ns,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s1,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s2,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s3,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s51_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s52_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr11_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr12_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr21_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr22_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr31_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr32_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s1,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s2,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s3,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s51_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s52_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr11_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr12_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr21_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr22_low,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr31_std,0.997733635
-C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr32_low,0.997733635
+C-WEU-PRT,Zone_3C Warm Marine,rur,inf,ns,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s1,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s2,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s3,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s51_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,s52_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr11_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr12_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr21_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr22_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr31_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,mfh,sr32_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s1,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s2,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s3,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s51_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,s52_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr11_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr12_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr21_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr22_low,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr31_std,0.99773
+C-WEU-PRT,Zone_3C Warm Marine,rur,sfh,sr32_low,0.99773
 C-WEU-PRT,Zone_3C Warm Marine,urb,inf,ns,1.0
 C-WEU-PRT,Zone_3C Warm Marine,urb,mfh,s1,1.0
 C-WEU-PRT,Zone_3C Warm Marine,urb,mfh,s2,1.0
@@ -3265,30 +3265,30 @@ C-WEU-PRT,Zone_3C Warm Marine,urb,sfh,sr21_std,1.0
 C-WEU-PRT,Zone_3C Warm Marine,urb,sfh,sr22_low,1.0
 C-WEU-PRT,Zone_3C Warm Marine,urb,sfh,sr31_std,1.0
 C-WEU-PRT,Zone_3C Warm Marine,urb,sfh,sr32_low,1.0
-C-WEU-PRT,Zone_4A Mixed Humid,rur,inf,ns,1.99546728
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s1,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s2,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s3,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s51_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s52_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr31_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr32_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s1,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s2,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s3,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s51_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s52_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.99773364
-C-WEU-PRT,Zone_4A Mixed Humid,urb,inf,ns,2.0
+C-WEU-PRT,Zone_4A Mixed Humid,rur,inf,ns,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s1,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s2,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s3,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s51_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,s52_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr11_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr12_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr21_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr22_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr31_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,mfh,sr32_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s1,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s2,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s3,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s51_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,s52_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr11_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr12_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr21_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr22_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr31_std,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,rur,sfh,sr32_low,0.99773
+C-WEU-PRT,Zone_4A Mixed Humid,urb,inf,ns,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,mfh,s1,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,mfh,s2,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,mfh,s3,1.0
@@ -3311,30 +3311,30 @@ C-WEU-PRT,Zone_4A Mixed Humid,urb,sfh,sr21_std,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,sfh,sr22_low,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,sfh,sr31_std,1.0
 C-WEU-PRT,Zone_4A Mixed Humid,urb,sfh,sr32_low,1.0
-C-WEU-PRT,Zone_4C Mixed Marine,rur,inf,ns,1.9954672799999997
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s1,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s2,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s3,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s51_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s52_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr11_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr21_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr22_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr31_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr32_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s1,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s2,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s3,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s51_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s52_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.9977336399999999
-C-WEU-PRT,Zone_4C Mixed Marine,urb,inf,ns,2.0
+C-WEU-PRT,Zone_4C Mixed Marine,rur,inf,ns,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s1,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s2,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s3,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s51_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,s52_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr11_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr12_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr21_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr22_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr31_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,mfh,sr32_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s1,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s2,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s3,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s51_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,s52_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr11_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr12_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr21_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr22_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr31_std,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,rur,sfh,sr32_low,0.99773
+C-WEU-PRT,Zone_4C Mixed Marine,urb,inf,ns,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,mfh,s1,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,mfh,s2,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,mfh,s3,1.0
@@ -3357,30 +3357,30 @@ C-WEU-PRT,Zone_4C Mixed Marine,urb,sfh,sr21_std,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,sfh,sr22_low,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,sfh,sr31_std,1.0
 C-WEU-PRT,Zone_4C Mixed Marine,urb,sfh,sr32_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,rur,inf,ns,0.473594662
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s1,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s2,0.999762371
+C-WEU-SWE,Zone_5A Cool Humid,rur,inf,ns,0.94719
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s1,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s2,0.99976
 C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s3,1.0
 C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s51_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,s52_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr11_std,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr12_low,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr21_std,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr22_low,0.999762371
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr11_std,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr12_low,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr21_std,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr22_low,0.99976
 C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,rur,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s1,0.473594662
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s2,0.897173165
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s3,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s51_std,0.999762371
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s1,0.47359
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s2,0.89717
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s3,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s51_std,0.99976
 C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,s52_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr11_std,0.473594662
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr12_low,0.473594662
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr21_std,0.897173165
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr22_low,0.897173165
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr31_std,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr32_low,0.999762371
-C-WEU-SWE,Zone_5A Cool Humid,urb,inf,ns,0.922858945
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr11_std,0.47359
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr12_low,0.47359
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr21_std,0.89717
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr22_low,0.89717
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr31_std,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,rur,sfh,sr32_low,0.99976
+C-WEU-SWE,Zone_5A Cool Humid,urb,inf,ns,0.92286
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,s1,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,s2,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,s3,1.0
@@ -3392,152 +3392,152 @@ C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,sr21_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,sr22_low,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s1,0.922858945
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s2,0.971977695
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s1,0.92286
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s2,0.97198
 C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s3,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s51_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,s52_low,1.0
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr11_std,0.922858945
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr12_low,0.922858945
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr21_std,0.971977695
-C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr22_low,0.971977695
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr11_std,0.92286
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr12_low,0.92286
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr21_std,0.97198
+C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr22_low,0.97198
 C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr31_std,1.0
 C-WEU-SWE,Zone_5A Cool Humid,urb,sfh,sr32_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,rur,inf,ns,0.646747391
-C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s1,0.941577753
+C-WEU-SWE,Zone_6A Cold Humid,rur,inf,ns,0.64675
+C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s1,0.94158
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s2,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s3,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s51_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,s52_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr11_std,0.941577753
-C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr12_low,0.941577753
+C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr11_std,0.94158
+C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr12_low,0.94158
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr21_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr22_low,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s1,0.646747391
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s2,0.784343587
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s3,0.986133054
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s1,0.64675
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s2,0.78434
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s3,0.98613
 C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s51_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,s52_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr11_std,0.646747391
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr12_low,0.646747391
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr21_std,0.784343587
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr22_low,0.784343587
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr31_std,0.986133054
-C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr32_low,0.986133054
-C-WEU-SWE,Zone_6A Cold Humid,urb,inf,ns,0.881471284
-C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s1,0.978755684
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr11_std,0.64675
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr12_low,0.64675
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr21_std,0.78434
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr22_low,0.78434
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr31_std,0.98613
+C-WEU-SWE,Zone_6A Cold Humid,rur,sfh,sr32_low,0.98613
+C-WEU-SWE,Zone_6A Cold Humid,urb,inf,ns,0.88147
+C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s1,0.97876
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s2,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s3,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s51_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,s52_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr11_std,0.978755684
-C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr12_low,0.978755684
+C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr11_std,0.97876
+C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr12_low,0.97876
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr21_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr22_low,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s1,0.881471284
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s2,0.939725167
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s3,0.997010508
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s1,0.88147
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s2,0.93973
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s3,0.99701
 C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s51_std,1.0
 C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,s52_low,1.0
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr11_std,0.881471284
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr12_low,0.881471284
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr21_std,0.939725167
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr22_low,0.939725167
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr31_std,0.997010508
-C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr32_low,0.997010508
-C-WEU-SWE,Zone_7A Very cold Humid,rur,inf,ns,1.29349478
-C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s1,0.94157775
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr11_std,0.88147
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr12_low,0.88147
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr21_std,0.93973
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr22_low,0.93973
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr31_std,0.99701
+C-WEU-SWE,Zone_6A Cold Humid,urb,sfh,sr32_low,0.99701
+C-WEU-SWE,Zone_7A Very cold Humid,rur,inf,ns,0.64675
+C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s1,0.94158
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s2,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s3,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s51_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,s52_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.94157775
-C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.94157775
+C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr11_std,0.94158
+C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr12_low,0.94158
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr21_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr22_low,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s1,0.64674739
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s2,0.78434359
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s3,0.98613305
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s1,0.64675
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s2,0.78434
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s3,0.98613
 C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s51_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,s52_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.64674739
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.64674739
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.78434359
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.78434359
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.98613305
-C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.98613305
-C-WEU-SWE,Zone_7A Very cold Humid,urb,inf,ns,1.76294256
-C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s1,0.97875568
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr11_std,0.64675
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr12_low,0.64675
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr21_std,0.78434
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr22_low,0.78434
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr31_std,0.98613
+C-WEU-SWE,Zone_7A Very cold Humid,rur,sfh,sr32_low,0.98613
+C-WEU-SWE,Zone_7A Very cold Humid,urb,inf,ns,0.88147
+C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s1,0.97876
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s2,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s3,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s51_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,s52_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.97875568
-C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.97875568
+C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr11_std,0.97876
+C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr12_low,0.97876
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr21_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr22_low,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s1,0.88147128
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s2,0.93972517
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s3,0.99701051
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s1,0.88147
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s2,0.93973
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s3,0.99701
 C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s51_std,1.0
 C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,s52_low,1.0
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.88147128
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.88147128
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.93972517
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.93972517
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.99701051
-C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.99701051
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,inf,ns,0.21291786
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s1,0.51825185
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s2,0.71387623
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s3,0.9385073
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s51_std,0.97157612
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s52_low,0.99869148
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr11_std,0.51825185
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr12_low,0.51825185
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr21_std,0.71387623
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr22_low,0.71387623
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr31_std,0.9385073
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr32_low,0.9385073
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s1,0.10645893
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s2,0.3172298
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s3,0.62206515
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s51_std,0.76391935
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s52_low,0.9464045
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr11_std,0.10645893
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr12_low,0.10645893
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr21_std,0.3172298
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr22_low,0.3172298
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr31_std,0.62206515
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr32_low,0.62206515
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,inf,ns,0.21566328
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s1,0.58548779
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s2,0.7022477
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr11_std,0.88147
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr12_low,0.88147
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr21_std,0.93973
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr22_low,0.93973
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr31_std,0.99701
+C-WEU-SWE,Zone_7A Very cold Humid,urb,sfh,sr32_low,0.99701
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,inf,ns,0.21292
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s1,0.51825
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s2,0.71388
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s3,0.93851
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s51_std,0.97158
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,s52_low,0.99869
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr11_std,0.51825
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr12_low,0.51825
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr21_std,0.71388
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr22_low,0.71388
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr31_std,0.93851
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,mfh,sr32_low,0.93851
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s1,0.10646
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s2,0.31723
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s3,0.62207
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s51_std,0.76392
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,s52_low,0.9464
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr11_std,0.10646
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr12_low,0.10646
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr21_std,0.31723
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr22_low,0.31723
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr31_std,0.62207
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,rur,sfh,sr32_low,0.62207
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,inf,ns,0.21566
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s1,0.58549
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s2,0.70225
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s3,1.0
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s51_std,1.0
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,s52_low,1.0
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr11_std,0.58548779
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr12_low,0.58548779
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr21_std,0.7022477
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr22_low,0.7022477
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr11_std,0.58549
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr12_low,0.58549
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr21_std,0.70225
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr22_low,0.70225
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr31_std,1.0
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,mfh,sr32_low,1.0
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s1,0.10783164
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s2,0.36509801
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s3,0.59613846
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s51_std,0.72086853
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s1,0.10783
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s2,0.3651
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s3,0.59614
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s51_std,0.72087
 C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,s52_low,1.0
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr11_std,0.10783164
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr12_low,0.10783164
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr21_std,0.36509801
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr22_low,0.36509801
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr31_std,0.59613846
-C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr32_low,0.59613846
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr11_std,0.10783
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr12_low,0.10783
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr21_std,0.3651
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr22_low,0.3651
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr31_std,0.59614
+C-WEU-SWE,Zone_8A Subarctic/arctic Humid,urb,sfh,sr32_low,0.59614
