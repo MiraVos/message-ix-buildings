@@ -205,35 +205,34 @@ fun_stock_init_fut <- function(sector, run,
 
     #if region_nuts, then hhsize also by arch, needs special treatment to be merged with
     if (geo_level == "region_nuts") { 
-      hhlevels_ha <- c("region_bld", "region_nuts", "urt", "arch", "year")
+        hhlevels_ha <- c("region_bld", "region_nuts", "urt", "arch", "year")
 
-      # 1. hhsize * shr_arch, broadcast over mat, then sum mat out
-      hhsize_arch <- shr_arch %>%
-        left_join(
-          hh_size_clean,
-          by = hhlevels_ha
-        ) %>%
-        mutate(value_prod = shr_arch * hh_size) %>%
-        group_by(across(all_of(setdiff(hhlevels_ha, "arch")))) %>%
-        summarise(hhsize_arch = sum(value_prod, na.rm = TRUE), .groups = "drop")
+        # 1. hhsize * shr_arch, weighted-summed over both mat and arch
+        hhsize_arch <- shr_arch %>%
+          left_join(
+            hh_size_clean,
+            by = hhlevels_ha
+          ) %>%
+          mutate(value_prod = shr_arch * hh_size) %>%
+          group_by(across(all_of(setdiff(hhlevels_ha, "arch")))) %>%
+          summarise(hh_size = sum(value_prod, na.rm = TRUE), .groups = "drop")
 
-      # 2. pop summed over clim
-      pop_summed <- population_detailed %>%
-        group_by(across(all_of(c("region_bld", "region_nuts", "urt", "year")))) %>%
-        summarise(pop = sum(pop, na.rm = TRUE), .groups = "drop")
+        # 2. pop summed over clim
+        pop_summed <- population_detailed %>%
+          group_by(across(all_of(c("region_bld", "region_nuts", "urt", "year")))) %>%
+          summarise(pop = sum(pop, na.rm = TRUE), .groups = "drop")
 
-      # 3. join, broadcasting pop across arch, and divide by both n_inc_cl and hhsize_arch
-      bld_units <- pop_summed %>%
-        left_join(
-          hhsize_arch,
-          by = c("region_bld", "region_nuts", "urt", "year")
-        ) %>%
-        mutate(
-          bld_units = round(1e6 * pop / n_inc_cl / hhsize_arch, rnd)
-        ) %>%
-        arrange(region_bld, region_nuts, urt, year) %>%
-        tidyr::fill(bld_units, .direction = "up") %>%
-        select(-c(pop, hhsize_arch))
+        # 3. join, and divide by both n_inc_cl and hh_size
+        bld_units <- pop_summed %>%
+          left_join(
+            hhsize_arch,
+            by = c("region_bld", "region_nuts", "urt", "year")
+          ) %>%
+          mutate(
+            bld_units = round(1e6 * pop / n_inc_cl / hh_size, rnd)
+          ) %>%
+          arrange(region_bld, region_nuts, urt, year) %>%
+          select(-c(pop, hh_size))
         } else { 
           bld_units <- population_detailed %>%
           left_join(
