@@ -66,10 +66,16 @@ dir.create(
 # SSP1, SSP2, SSP3, SSP4, SSP5, SSP1_LED, SSP2_LED
 
 scenarios <- c(
-  "R-nuts"
+  "R-nuts", 
+  "CP_r", 
+  "CP_tp"
 )
 
 geo_level <- "region_nuts"
+
+if (geo_level == "region_nuts") {
+  scenarios <- paste0(scenarios, "-nuts")
+}
 
 region_run_mode <- "eu27"   # global, eu27, custom
 
@@ -190,7 +196,7 @@ if (
 
 if (
   vacant_mode_selected == "vacant" &&
-  region_run_mode != "eu27"
+  custom_input_scope != "eu27"
 ) {
   stop(
     "Vacancy mode is available only for EU-27 runs.",
