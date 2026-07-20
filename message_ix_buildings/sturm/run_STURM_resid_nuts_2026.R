@@ -66,7 +66,7 @@ dir.create(
 # SSP1, SSP2, SSP3, SSP4, SSP5, SSP1_LED, SSP2_LED
 
 scenarios <- c(
-  "R-nuts", 
+  "R", 
   "CP_r", 
   "CP_tp"
 )
